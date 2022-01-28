@@ -8,7 +8,7 @@ in a project funded by [Australian Research Council](https://www.arc.gov.au/).
 
 ## Usage
 
-A machine readable version of the data can be found in this repository at [aus-colonial-massacres.json](aus-colonial-massacres.json).
+A machine-readable version of the data can be found in this repository at [aus-colonial-massacres.json](aus-colonial-massacres.json).
 
 ## Citation
 
