@@ -3,8 +3,12 @@
 Machine readable version and basic reporting Colonial Australian Massacres 
 
 
-This data was extracted from [Colonial Frontier Massacres in Australia, 1788-1930](https://c21ch.newcastle.edu.au/colonialmassacres/timeline.php)
+This data was extracted from the timeline at [Colonial Frontier Massacres in Australia, 1788-1930](https://c21ch.newcastle.edu.au/colonialmassacres/)
 in a project funded by [Australian Research Council](https://www.arc.gov.au/).
+
+## Usage
+
+A machine readable version of the data can be found in this repository at [aus-colonial-massacres.json](aus-colonial-massacres.json).
 
 ## Citation
 
