@@ -1,6 +1,9 @@
 [
     {
-        "estimated_date": "1 Sep 1794",
+        "estimated_date": {
+            "from": "1 Sep 1794",
+            "to": "1 Sep 1794"
+        },
         "colony": "NSW",
         "location": "Hawkesbury (1)",
         "language_group": "Bediagal",
@@ -15,7 +18,10 @@
         "sources": "Fletcher 1975: vol.1: 326; Turbet 2011: 81"
     },
     {
-        "estimated_date": "7 Jun 1795",
+        "estimated_date": {
+            "from": "7 Jun 1795",
+            "to": "7 Jun 1795"
+        },
         "colony": "NSW",
         "location": "Hawkesbury (2)",
         "language_group": "Bediagal",
@@ -30,7 +36,10 @@
         "sources": "Fletcher 1975:  348-9;  <i>HRA, I,ii</i> : 416;  <i>HRNSW,  II</i> : 307; Connor 2002: 38"
     },
     {
-        "estimated_date": "3 May 1804",
+        "estimated_date": {
+            "from": "3 May 1804",
+            "to": "3 May 1804"
+        },
         "colony": "VDL",
         "location": "Risdon Cove, River Derwent",
         "language_group": "Big River [Leenowwine; Pangerninghe]",
@@ -45,7 +54,10 @@
         "sources": "Nicholls 1977: 51;  <i>HRA</i>  III, I: 237-8; BPP 1831:37, 51-54;  Ryan, L. 2012: 47-62."
     },
     {
-        "estimated_date": "27 Apr 1805",
+        "estimated_date": {
+            "from": "27 Apr 1805",
+            "to": "27 Apr 1805"
+        },
         "colony": "NSW",
         "location": "Nepean River",
         "language_group": "Bediagal/Dharug",
@@ -60,7 +72,10 @@
         "sources": "<i>SG</i>  May 5-  <a href=\"https://trove.nla.gov.au/newspaper/page/6111\">https://trove.nla.gov.au/newspaper/page/6111</a>  and May 12 -  <a href=\"https://trove.nla.gov.au/newspaper/page/6115\">https://trove.nla.gov.au/newspaper/page/6115</a> , 1805"
     },
     {
-        "estimated_date": "1 Mar 1806",
+        "estimated_date": {
+            "from": "1 Mar 1806",
+            "to": "1 Mar 1806"
+        },
         "colony": "NSW",
         "location": "Twofold Bay, South Coast",
         "language_group": "Thawa or Djirringany",
@@ -75,7 +90,10 @@
         "sources": "<i>SG</i>   April 6, 1806  <a href=\"http://nla.gov.au/nla.news-article627073\">http://nla.gov.au/nla.news-article627073</a>"
     },
     {
-        "estimated_date": "1 Nov 1815 to 30 Nov 1815",
+        "estimated_date": {
+            "from": "1 Nov 1815",
+            "to": "30 Nov 1815"
+        },
         "colony": "VDL",
         "location": "Oyster Bay, East Coast",
         "language_group": "Oyster Bay ",
@@ -90,7 +108,10 @@
         "sources": "Nicholls 1977: 26; BPP 1831: 50; West 1852: 10."
     },
     {
-        "estimated_date": "17 Apr 1816",
+        "estimated_date": {
+            "from": "17 Apr 1816",
+            "to": "17 Apr 1816"
+        },
         "colony": "NSW",
         "location": "Appin",
         "language_group": "Gundungurra",
@@ -105,7 +126,10 @@
         "sources": "Wallis to Macquarie, May 4, June 4, 1816, ML A773. "
     },
     {
-        "estimated_date": "1 Oct 1818",
+        "estimated_date": {
+            "from": "1 Oct 1818",
+            "to": "1 Oct 1818"
+        },
         "colony": "NSW",
         "location": "Minnamurra River, South Coast",
         "language_group": "Dharawal",
@@ -120,7 +144,10 @@
         "sources": "Depositions to the Sydney Bench, October 24, 1818; Report by Joseph Wild, district constable at Illawarra; Elder 2003: 25-6"
     },
     {
-        "estimated_date": "15 Nov 1823",
+        "estimated_date": {
+            "from": "15 Nov 1823",
+            "to": "15 Nov 1823"
+        },
         "colony": "VDL",
         "location": "Meredith River, Oyster Bay",
         "language_group": "Oyster Bay / Little Swanport",
@@ -135,7 +162,10 @@
         "sources": "Amos 1823: Nov 20.  "
     },
     {
-        "estimated_date": "31 May 1824",
+        "estimated_date": {
+            "from": "31 May 1824",
+            "to": "31 May 1824"
+        },
         "colony": "NSW",
         "location": "Bathurst Plains",
         "language_group": "Wiradjuri",
@@ -150,7 +180,10 @@
         "sources": "Cox et.al to Brisbane, June 3, 1824, NLA mfm N 257 Reel 6065: SRNSW CSO 4/1779; William Lawson Junior to Nelson Lawson, June 14, 1824, Lawson,  <i>Old Ironbark</i> : 37; Connor 2002: 57-60;  <i>SG</i>  29 July, 1824  <a href=\"http://nla.gov.au/nla.news-article2183077\">http://nla.gov.au/nla.news-article2183077</a> . "
     },
     {
-        "estimated_date": "1 Sep 1824",
+        "estimated_date": {
+            "from": "1 Sep 1824",
+            "to": "1 Sep 1824"
+        },
         "colony": "NSW",
         "location": "Turon River",
         "language_group": "Wiradjuri",
@@ -165,7 +198,10 @@
         "sources": "Gunson 1974 : 48-9, 74n.43;  Christian Herald, October 14, 1854; Connor 2002: 59-61."
     },
     {
-        "estimated_date": "5 Sep 1824 to 10 Sep 1824",
+        "estimated_date": {
+            "from": "5 Sep 1824",
+            "to": "10 Sep 1824"
+        },
         "colony": "NSW",
         "location": "Mudgee, Rylstone",
         "language_group": "Wiradjuri",
@@ -180,7 +216,10 @@
         "sources": "<i>SG</i>  16 September 1824 -  <a href=\"https://trove.nla.gov.au/newspaper/page/494925\">https://trove.nla.gov.au/newspaper/page/494925</a> ; Connor 2002: 61"
     },
     {
-        "estimated_date": "14 Mar 1826",
+        "estimated_date": {
+            "from": "14 Mar 1826",
+            "to": "14 Mar 1826"
+        },
         "colony": "VDL",
         "location": "Buxton's Property,  East Coast",
         "language_group": "Oyster Bay / Little Swanport",
@@ -195,7 +234,10 @@
         "sources": "TAHO CSO 1/316: 840; Bonwick 1870: 117."
     },
     {
-        "estimated_date": "1 Sep 1826",
+        "estimated_date": {
+            "from": "1 Sep 1826",
+            "to": "1 Sep 1826"
+        },
         "colony": "NSW",
         "location": "Hunter Valley, The Bridgman Estate, Fal Brook",
         "language_group": "Wonnarua",
@@ -210,7 +252,10 @@
         "sources": "<i>The Australian</i> , September 23, 1826: 3  <a href=\"https://trove.nla.gov.au/newspaper/page/4248925\">https://trove.nla.gov.au/newspaper/page/4248925</a> ; NSW Governors\u2019 Despatches ML A1197, vol.8, p.344; Dunn 2015: 212-14"
     },
     {
-        "estimated_date": "15 Sep 1826",
+        "estimated_date": {
+            "from": "15 Sep 1826",
+            "to": "15 Sep 1826"
+        },
         "colony": "VDL",
         "location": "Dairy Plains Meander River (3)",
         "language_group": "Port Sorell [Pallittore North]",
@@ -225,7 +270,10 @@
         "sources": "<i>HTG</i>  September 23 -  <a href=\"https://trove.nla.gov.au/newspaper/page/679510\">https://trove.nla.gov.au/newspaper/page/679510</a>  1826, <i>CTTA</i>   <a href=\"http://nla.gov.au/nla.news-page678999\">http://nla.gov.au/nla.news-page678999</a>  1826"
     },
     {
-        "estimated_date": "9 Dec 1826",
+        "estimated_date": {
+            "from": "9 Dec 1826",
+            "to": "9 Dec 1826"
+        },
         "colony": "VDL",
         "location": "Bank Head Farm ",
         "language_group": "Oyster Bay",
@@ -240,7 +288,10 @@
         "sources": "TAHO CSO 1/331:194-5;  <i>CTTA</i>  December 15, 1826  -  <a href=\"http://nla.gov.au/nla.news-article2449083\">http://nla.gov.au/nla.news-article2449083</a> ;  <i>HTG</i>  December 16, 1826;   <a href=\"https://trove.nla.gov.au/newspaper/page/679629\">https://trove.nla.gov.au/newspaper/page/679629</a>  \r\nBPP 1831: 49; Bridges 1948:69; Cox 2010: 181-201. "
     },
     {
-        "estimated_date": "22 Feb 1827 to 25 Feb 1827",
+        "estimated_date": {
+            "from": "22 Feb 1827",
+            "to": "25 Feb 1827"
+        },
         "colony": "NSW",
         "location": "Paterson River, Hunter Valley",
         "language_group": "Wonnarua ",
@@ -255,7 +306,10 @@
         "sources": "  <i>The Australian</i> , March 3, 1827: 3  <a href=\"https://trove.nla.gov.au/newspaper/rendition/nla.news-page4249109.pdf\">https://trove.nla.gov.au/newspaper/rendition/nla.news-page4249109.pdf</a> ;  <i>Sydney Gazette</i> , March 22,1827: 2  <a href=\"http://nla.gov.au/nla.news-article2187895\">http://nla.gov.au/nla.news-article2187895</a> , March 24, 1827: 3  <a href=\"http://nla.gov.au/nla.news-article2187904\">http://nla.gov.au/nla.news-article2187904</a> . \r\nMaitland Mercury, 25 August 1877, p.10.\r\n <a href=\"https://trove.nla.gov.au/newspaper/article/18831954\">https://trove.nla.gov.au/newspaper/article/18831954</a>"
     },
     {
-        "estimated_date": "1 Mar 1827 to 31 Mar 1827",
+        "estimated_date": {
+            "from": "1 Mar 1827",
+            "to": "31 Mar 1827"
+        },
         "colony": "VDL",
         "location": "Lagoon Lower Marshes near Jordan River",
         "language_group": "Big River",
@@ -270,7 +324,10 @@
         "sources": "TAHO CSO 1/323, 113;  <i>HTC</i> , 15 March -  <a href=\"https://trove.nla.gov.au/newspaper/page/641575\">https://trove.nla.gov.au/newspaper/page/641575</a> , 22 March -  <a href=\"https://trove.nla.gov.au/newspaper/page/641580\">https://trove.nla.gov.au/newspaper/page/641580</a> , 1828; Plomley 2008: 537."
     },
     {
-        "estimated_date": "12 Apr 1827",
+        "estimated_date": {
+            "from": "12 Apr 1827",
+            "to": "12 Apr 1827"
+        },
         "colony": "VDL",
         "location": "Elizabeth River (Mt Augustus) Eastern Midland Plain",
         "language_group": "Oyster Bay",
@@ -285,7 +342,10 @@
         "sources": "<i>HTG</i>  May 5,1827 -  <a href=\"https://trove.nla.gov.au/newspaper/page/679817\">https://trove.nla.gov.au/newspaper/page/679817</a> ;  <i>CTTA</i>  May 4 -  <a href=\"https://trove.nla.gov.au/newspaper/page/679292\">https://trove.nla.gov.au/newspaper/page/679292</a> , 11 -  <a href=\"https://trove.nla.gov.au/newspaper/page/679295\">https://trove.nla.gov.au/newspaper/page/679295</a> , 25 -  <a href=\"https://trove.nla.gov.au/newspaper/page/679305\">https://trove.nla.gov.au/newspaper/page/679305</a> , 1827; BPP 1831: 48-9; George 2002: 13; Ryan 2012: 90."
     },
     {
-        "estimated_date": "1 May 1827 to 15 May 1827",
+        "estimated_date": {
+            "from": "1 May 1827",
+            "to": "15 May 1827"
+        },
         "colony": "VDL",
         "location": "Sally Peak (1)",
         "language_group": "Oyster Bay",
@@ -300,7 +360,10 @@
         "sources": "Bonwick 1870: 99."
     },
     {
-        "estimated_date": "1 Jun 1827 to 30 Jun 1827",
+        "estimated_date": {
+            "from": "1 Jun 1827",
+            "to": "30 Jun 1827"
+        },
         "colony": "VDL",
         "location": "Blackman River: intersection of Brumby Creek and Lake River",
         "language_group": "Big River",
@@ -315,7 +378,10 @@
         "sources": "<i>Tasmanian</i>  November 16, 1827 -  <a href=\"https://trove.nla.gov.au/newspaper/page/25173464\">https://trove.nla.gov.au/newspaper/page/25173464</a> ; McKay 1962: 74."
     },
     {
-        "estimated_date": "13 Jun 1827",
+        "estimated_date": {
+            "from": "13 Jun 1827",
+            "to": "13 Jun 1827"
+        },
         "colony": "VDL",
         "location": "Dairy Plains Meander River (2)",
         "language_group": "Port Sorell [Pallittore North]",
@@ -330,7 +396,10 @@
         "sources": "TAHO CSO 1/316, 15-37; Plomley 1966: 219; Ryan 2008: 491."
     },
     {
-        "estimated_date": "24 Jun 1827",
+        "estimated_date": {
+            "from": "24 Jun 1827",
+            "to": "24 Jun 1827"
+        },
         "colony": "VDL",
         "location": "Laycock Falls (Liffey Falls)",
         "language_group": "Port Sorell [Pallittore North]",
@@ -345,7 +414,10 @@
         "sources": "TAHO CSO 1/316, 15-37;   <i>CTTA</i> , July 6, 1827 -  <a href=\"https://trove.nla.gov.au/newspaper/page/679329\">https://trove.nla.gov.au/newspaper/page/679329</a> ; Breen 2006: Ryan 2008: 492-3; Plomley 2008: 254."
     },
     {
-        "estimated_date": "26 Jun 1827",
+        "estimated_date": {
+            "from": "26 Jun 1827",
+            "to": "26 Jun 1827"
+        },
         "colony": "VDL",
         "location": "Quamby Brook",
         "language_group": "Port Sorell [Pallittore North]",
@@ -360,7 +432,10 @@
         "sources": "<i>CTTA</i>  July 6, 1827 -  <a href=\"https://trove.nla.gov.au/newspaper/page/679329\">https://trove.nla.gov.au/newspaper/page/679329</a> ; TAHO CSO 1/316: 15-45; Plomley 1966: 219; Breen 2001: 27; Ryan, 2008: 493. "
     },
     {
-        "estimated_date": "30 Jul 1827",
+        "estimated_date": {
+            "from": "30 Jul 1827",
+            "to": "30 Jul 1827"
+        },
         "colony": "NSW",
         "location": "Raffles Bay, NT",
         "language_group": "Iwaidja",
@@ -375,7 +450,10 @@
         "sources": "HRA, III, v:816-20; HRA III, vi:.777;  NLA AJCP Reel M793 f278;   Wilson 1968: 148; Mulvaney 1989: 69; Connor 2002: 74; McKenna 2016: 73"
     },
     {
-        "estimated_date": "1 Sep 1827 to 31 Oct 1827",
+        "estimated_date": {
+            "from": "1 Sep 1827",
+            "to": "31 Oct 1827"
+        },
         "colony": "NSW",
         "location": "Yarramanbah, Qurindi, Liverpool Plains",
         "language_group": "Gamilaraay or Guyinbaraay",
@@ -390,7 +468,10 @@
         "sources": "<i>The Monitor</i> , August 4, 1828: 8  <a href=\"http://nla.gov.au/nla.news-article31760465\">http://nla.gov.au/nla.news-article31760465</a> ; Milliss 1992: 78-82;  SRNSW 4/1983: CSR 28/7772, Letters Received 1828;  Dunn to McLeay, May 6, 1828; Sadlier to McLeay, September 19, 1828."
     },
     {
-        "estimated_date": "1 Dec 1827 to 31 Dec 1827",
+        "estimated_date": {
+            "from": "1 Dec 1827",
+            "to": "31 Dec 1827"
+        },
         "colony": "VDL",
         "location": "The Retreat, (Cheshunt) Dairy Plains, Meander River ",
         "language_group": "Port Sorell [Pallittore North]",
@@ -405,7 +486,10 @@
         "sources": "Plomley 1966: 197-8, 218."
     },
     {
-        "estimated_date": "1 Dec 1827 to 31 Dec 1827",
+        "estimated_date": {
+            "from": "1 Dec 1827",
+            "to": "31 Dec 1827"
+        },
         "colony": "VDL",
         "location": "Dairy Plains Meander River (1)",
         "language_group": "Port Sorell [Pallittore North]",
@@ -420,7 +504,10 @@
         "sources": "Lennox 1990: 170."
     },
     {
-        "estimated_date": "1 Jan 1828 to 31 Dec 1828",
+        "estimated_date": {
+            "from": "1 Jan 1828",
+            "to": "31 Dec 1828"
+        },
         "colony": "NSW",
         "location": "Mill Creek, 32 kms north of Stroud ",
         "language_group": "Worimi ",
@@ -435,7 +522,10 @@
         "sources": "Bennett 1964:12-13."
     },
     {
-        "estimated_date": "1 Jan 1828 to 31 Jan 1828",
+        "estimated_date": {
+            "from": "1 Jan 1828",
+            "to": "31 Jan 1828"
+        },
         "colony": "VDL",
         "location": "Cape Grim, VDL Co, NW Tasmania (1)",
         "language_group": "North West",
@@ -450,7 +540,10 @@
         "sources": "TAHO VDL 5/1 No.2; Lee 1927: 41."
     },
     {
-        "estimated_date": "10 Feb 1828",
+        "estimated_date": {
+            "from": "10 Feb 1828",
+            "to": "10 Feb 1828"
+        },
         "colony": "VDL",
         "location": "Cape Grim, VDL Co, Nw Tasmania (2)",
         "language_group": "North West",
@@ -465,7 +558,10 @@
         "sources": "TAHO CSO 1/333: 116-117; Plomley 1966: 175, 181; TAHO VDL 5/1:104-5."
     },
     {
-        "estimated_date": "19 Mar 1828",
+        "estimated_date": {
+            "from": "19 Mar 1828",
+            "to": "19 Mar 1828"
+        },
         "colony": "VDL",
         "location": "Bullock Hunting Ground, East Tamar River",
         "language_group": "North Midlands",
@@ -480,7 +576,10 @@
         "sources": "TAHO CSO 1/316:729"
     },
     {
-        "estimated_date": "2 Apr 1828",
+        "estimated_date": {
+            "from": "2 Apr 1828",
+            "to": "2 Apr 1828"
+        },
         "colony": "VDL",
         "location": "Elizabeth River, Eastern Tiers",
         "language_group": "Oyster Bay",
@@ -495,7 +594,10 @@
         "sources": "TAHO CSO 1/316:137;  <i>HTC</i>  April 5, 1828 -  <a href=\"https://trove.nla.gov.au/newspaper/page/641590\">https://trove.nla.gov.au/newspaper/page/641590</a> ; BPP 1831: 49; Melville [1835] 1965: 71-2; Ryan 2012: 99."
     },
     {
-        "estimated_date": "1 Jul 1828 to 30 Jul 1828",
+        "estimated_date": {
+            "from": "1 Jul 1828",
+            "to": "30 Jul 1828"
+        },
         "colony": "VDL",
         "location": "Eastern Tiers",
         "language_group": "Oyster Bay / Big River",
@@ -510,7 +612,10 @@
         "sources": "TAHO CSO 1/320: 152-4;TAHO CSO 1/330:109."
     },
     {
-        "estimated_date": "23 Oct 1828",
+        "estimated_date": {
+            "from": "23 Oct 1828",
+            "to": "23 Oct 1828"
+        },
         "colony": "VDL",
         "location": "Cockatoo Valley, Hollow Tree",
         "language_group": "Oyster Bay",
@@ -525,7 +630,10 @@
         "sources": "<i>The Tasmanian</i> , October 31, 1828 -  <a href=\"https://trove.nla.gov.au/newspaper/page/25173660\">https://trove.nla.gov.au/newspaper/page/25173660</a> ;  <i>HTC</i>  18 October  <a href=\"http://nla.gov.au/nla.news-article4220434\">http://nla.gov.au/nla.news-article4220434</a> ; November 1, 1828 -  <a href=\"https://trove.nla.gov.au/newspaper/page/641811\">https://trove.nla.gov.au/newspaper/page/641811</a> ."
     },
     {
-        "estimated_date": "6 Dec 1828",
+        "estimated_date": {
+            "from": "6 Dec 1828",
+            "to": "6 Dec 1828"
+        },
         "colony": "VDL",
         "location": "Tooms Lake, source of Macquarie River, Eastern Tiers",
         "language_group": "Oyster Bay / Little Swanport",
@@ -540,7 +648,10 @@
         "sources": "TAHO CSO 1/320: 22;  <i>HTC</i>  December 13, 1828  <a href=\"https://trove.nla.gov.au/newspaper/page/641858\">https://trove.nla.gov.au/newspaper/page/641858</a> ."
     },
     {
-        "estimated_date": "1 Jan 1829 to 31 Dec 1829",
+        "estimated_date": {
+            "from": "1 Jan 1829",
+            "to": "31 Dec 1829"
+        },
         "colony": "SRC",
         "location": "Swan Valley/Success Hill",
         "language_group": "Whadjuk Noongar",
@@ -555,7 +666,10 @@
         "sources": "Berryman 2002: 233;  Carter 2005:78-80."
     },
     {
-        "estimated_date": "1 Jan 1829 to 31 Jan 1829",
+        "estimated_date": {
+            "from": "1 Jan 1829",
+            "to": "31 Jan 1829"
+        },
         "colony": "VDL",
         "location": "St Paul\u2019s River, East Coast",
         "language_group": "Oyster Bay",
@@ -570,7 +684,10 @@
         "sources": "<i>LA</i>  February 9, 1829 -  <a href=\"https://trove.nla.gov.au/newspaper/page/8721080\">https://trove.nla.gov.au/newspaper/page/8721080</a> ."
     },
     {
-        "estimated_date": "1 Jan 1829 to 31 Jan 1829",
+        "estimated_date": {
+            "from": "1 Jan 1829",
+            "to": "31 Jan 1829"
+        },
         "colony": "VDL",
         "location": "Break O'Day Plains ",
         "language_group": "Oyster Bay",
@@ -585,7 +702,10 @@
         "sources": "<i>LA</i>  February 9 -  <a href=\"https://trove.nla.gov.au/newspaper/page/8721080\">https://trove.nla.gov.au/newspaper/page/8721080</a> , 1829."
     },
     {
-        "estimated_date": "18 Feb 1829",
+        "estimated_date": {
+            "from": "18 Feb 1829",
+            "to": "18 Feb 1829"
+        },
         "colony": "VDL",
         "location": "West Tamar",
         "language_group": "Port Sorell [Pallittore North]",
@@ -600,7 +720,10 @@
         "sources": "<i>CT</i> , February 27, 1829  <a href=\"http://nla.gov.au/nla.news-page666478\">http://nla.gov.au/nla.news-page666478</a> ;  <i>HTC</i>  February 28, 1829 -  <a href=\"https://trove.nla.gov.au/newspaper/page/641939\">https://trove.nla.gov.au/newspaper/page/641939</a> ."
     },
     {
-        "estimated_date": "1 Mar 1829 to 5 Mar 1829",
+        "estimated_date": {
+            "from": "1 Mar 1829",
+            "to": "5 Mar 1829"
+        },
         "colony": "VDL",
         "location": "Richmond, Coal River",
         "language_group": "Oyster Bay",
@@ -615,7 +738,10 @@
         "sources": "<i>HTC</i>  March 7 -  <a href=\"https://trove.nla.gov.au/newspaper/page/641947\">https://trove.nla.gov.au/newspaper/page/641947</a> , 1829."
     },
     {
-        "estimated_date": "28 Mar 1829",
+        "estimated_date": {
+            "from": "28 Mar 1829",
+            "to": "28 Mar 1829"
+        },
         "colony": "VDL",
         "location": "Clyde and Ouse Rivers (1)",
         "language_group": "Big River",
@@ -630,7 +756,10 @@
         "sources": "TAHO CSO 1/316: 232, 239;  <i>CT</i>  April 10 -  <a href=\"https://trove.nla.gov.au/newspaper/page/666503\">https://trove.nla.gov.au/newspaper/page/666503</a> , 1829;  <i>HTC</i>   April 18 -  <a href=\"https://trove.nla.gov.au/newspaper/page/641992\">https://trove.nla.gov.au/newspaper/page/641992</a> , 1829."
     },
     {
-        "estimated_date": "1 Jun 1829 to 30 Jun 1829",
+        "estimated_date": {
+            "from": "1 Jun 1829",
+            "to": "30 Jun 1829"
+        },
         "colony": "VDL",
         "location": "Pittwater",
         "language_group": "Oyster Bay",
@@ -645,7 +774,10 @@
         "sources": "TAHO CSO 1/316: 281,832; CSO 1/321 1829: Jun 16;  <i>HTC</i>  Jun 13, 1829  -  <a href=\"https://trove.nla.gov.au/newspaper/page/642053\">https://trove.nla.gov.au/newspaper/page/642053</a> , June 20, 1829 -  <a href=\"https://trove.nla.gov.au/newspaper/page/642061\">https://trove.nla.gov.au/newspaper/page/642061</a> ."
     },
     {
-        "estimated_date": "1 Sep 1829",
+        "estimated_date": {
+            "from": "1 Sep 1829",
+            "to": "1 Sep 1829"
+        },
         "colony": "VDL",
         "location": "East of Ben Lomond",
         "language_group": "Ben Lomond",
@@ -660,7 +792,10 @@
         "sources": "Campbell 1987: 31-2;  <i>CT</i> , September 18, 1829 -  <a href=\"https://trove.nla.gov.au/newspaper/page/666596\">https://trove.nla.gov.au/newspaper/page/666596</a> ; TAHO CS0 1/330."
     },
     {
-        "estimated_date": "1 Oct 1829 to 31 Oct 1829",
+        "estimated_date": {
+            "from": "1 Oct 1829",
+            "to": "31 Oct 1829"
+        },
         "colony": "VDL",
         "location": "Ouse River",
         "language_group": "Big River",
@@ -675,7 +810,10 @@
         "sources": "Bonwick 1870: 66."
     },
     {
-        "estimated_date": "10 Mar 1830",
+        "estimated_date": {
+            "from": "10 Mar 1830",
+            "to": "10 Mar 1830"
+        },
         "colony": "VDL",
         "location": "Clyde and Ouse Rivers (2)",
         "language_group": "Big River",
@@ -690,7 +828,10 @@
         "sources": "TAHO CSO 1/316:189"
     },
     {
-        "estimated_date": "1 Apr 1830 to 8 Apr 1830",
+        "estimated_date": {
+            "from": "1 Apr 1830",
+            "to": "8 Apr 1830"
+        },
         "colony": "VDL",
         "location": "Upper Clyde River",
         "language_group": "Big River",
@@ -705,7 +846,10 @@
         "sources": "TAHO CSO 1/316:189."
     },
     {
-        "estimated_date": "18 Apr 1830",
+        "estimated_date": {
+            "from": "18 Apr 1830",
+            "to": "18 Apr 1830"
+        },
         "colony": "VDL",
         "location": "Whitefoord Hills, Meander River",
         "language_group": "Port Sorell [Pallittore North]",
@@ -720,7 +864,10 @@
         "sources": "TAHO CSO 1/316: 489."
     },
     {
-        "estimated_date": "3 May 1830 to 5 May 1830",
+        "estimated_date": {
+            "from": "3 May 1830",
+            "to": "5 May 1830"
+        },
         "colony": "SRC",
         "location": "Galup - Lake Monger",
         "language_group": "Whadjuk Noongar",
@@ -735,7 +882,10 @@
         "sources": "Swan River Papers,  <i>HRA</i>  Series III Vol.vi:73;  <i>The Western Mail</i> , 9 January, 1914: 38  <a href=\"https://trove.nla.gov.au/newspaper/article/44879885/3479435\">https://trove.nla.gov.au/newspaper/article/44879885/3479435</a> ; Carter 2005: 67-74."
     },
     {
-        "estimated_date": "22 Aug 1830 to 27 Aug 1830",
+        "estimated_date": {
+            "from": "22 Aug 1830",
+            "to": "27 Aug 1830"
+        },
         "colony": "VDL",
         "location": "Clyde River (2)",
         "language_group": "Big River ",
@@ -750,7 +900,10 @@
         "sources": "<i>CT</i> , September 3 -  <a href=\"https://trove.nla.gov.au/newspaper/page/666800\">https://trove.nla.gov.au/newspaper/page/666800</a> , October 15 -  <a href=\"https://trove.nla.gov.au/newspaper/page/666839\">https://trove.nla.gov.au/newspaper/page/666839</a>  1830; Plomley 1966: 506"
     },
     {
-        "estimated_date": "1 Jul 1831",
+        "estimated_date": {
+            "from": "1 Jul 1831",
+            "to": "1 Jul 1831"
+        },
         "colony": "NSW",
         "location": "Moreton Island ",
         "language_group": "Guwar",
@@ -765,7 +918,10 @@
         "sources": "Evans 1999:65; Watkins 1892: 43"
     },
     {
-        "estimated_date": "22 Dec 1832 to 31 Dec 1832",
+        "estimated_date": {
+            "from": "22 Dec 1832",
+            "to": "31 Dec 1832"
+        },
         "colony": "NSW",
         "location": "Stradbroke Island, Moreton Bay",
         "language_group": "Noonucal",
@@ -780,7 +936,10 @@
         "sources": "Cluny, 12 Jan 1833 QSA CSL micro 8; Evans 1999: 65"
     },
     {
-        "estimated_date": "1 Mar 1833 to 31 Mar 1834",
+        "estimated_date": {
+            "from": "1 Mar 1833",
+            "to": "31 Mar 1834"
+        },
         "colony": "PPD",
         "location": "Convincing Ground, Portland Bay ",
         "language_group": "Dhauwurd wurrung",
@@ -795,7 +954,10 @@
         "sources": "Clark 1995; Clark 1998b; Connor 2005; Clark 2011."
     },
     {
-        "estimated_date": "1 Apr 1833 to 1 Sep 1833",
+        "estimated_date": {
+            "from": "1 Apr 1833",
+            "to": "1 Sep 1833"
+        },
         "colony": "SRC",
         "location": "Perth Area Killings",
         "language_group": "Whadjuk Noongar",
@@ -810,7 +972,10 @@
         "sources": "<i>Perth Gazette</i> , 7 September 1833:142  <a href=\"https://trove.nla.gov.au/newspaper/article/641889/148\">https://trove.nla.gov.au/newspaper/article/641889/148</a>  "
     },
     {
-        "estimated_date": "1 Jan 1834 to 31 Dec 1834",
+        "estimated_date": {
+            "from": "1 Jan 1834",
+            "to": "31 Dec 1834"
+        },
         "colony": "NSW",
         "location": "Belbora, between Gloucester & Wingham",
         "language_group": "Binghi   ",
@@ -825,7 +990,10 @@
         "sources": "Newcastle Herald July 25, 1964. "
     },
     {
-        "estimated_date": "1 Aug 1834 to 31 Aug 1834",
+        "estimated_date": {
+            "from": "1 Aug 1834",
+            "to": "31 Aug 1834"
+        },
         "colony": "NSW",
         "location": "Badu Island, Torres Strait",
         "language_group": "",
@@ -840,7 +1008,10 @@
         "sources": "McInnes 1983: 21-50; Mullins 1994:22-3;  <i>SH</i>  October 29, 1836  <a href=\"http://nla.gov.au/nla.news-article12862565\">http://nla.gov.au/nla.news-article12862565</a> ;  <a href=\"http://nla.gov.au/nla.news-article12862560\">http://nla.gov.au/nla.news-article12862560</a> ."
     },
     {
-        "estimated_date": "28 Oct 1834",
+        "estimated_date": {
+            "from": "28 Oct 1834",
+            "to": "28 Oct 1834"
+        },
         "colony": "SRC",
         "location": "Pinjarra",
         "language_group": "Pinjarup Noongar",
@@ -855,7 +1026,10 @@
         "sources": "<i>Perth Gazette</i> , 1 November 1834: 382  <a href=\"https://trove.nla.gov.au/newspaper/article/641213/402\">https://trove.nla.gov.au/newspaper/article/641213/402</a> ; Green 1981: 84-85; Contos,1998; Harris, 2003; Green 2003: 187-198; Owen 2016: 72-75."
     },
     {
-        "estimated_date": "1 Jan 1835 to 31 Dec 1835",
+        "estimated_date": {
+            "from": "1 Jan 1835",
+            "to": "31 Dec 1835"
+        },
         "colony": "NSW",
         "location": "Waterloo Plains,  Namoi R. Liverpool Plains PD",
         "language_group": "Gamilaraay or Nganyaywana",
@@ -870,7 +1044,10 @@
         "sources": "Calvert 1845; Reece 1974:28-9; "
     },
     {
-        "estimated_date": "1 Jan 1835 to 31 Dec 1835",
+        "estimated_date": {
+            "from": "1 Jan 1835",
+            "to": "31 Dec 1835"
+        },
         "colony": "NSW",
         "location": "Upper Williams River, Barrington Tops  ",
         "language_group": "Binghi   ",
@@ -885,7 +1062,10 @@
         "sources": "Blomfield, 1981:122;  <i>Newcastle Morning Herald</i> , July 25, 1964"
     },
     {
-        "estimated_date": "1 Jan 1836 to 31 Dec 1836",
+        "estimated_date": {
+            "from": "1 Jan 1836",
+            "to": "31 Dec 1836"
+        },
         "colony": "NSW",
         "location": "Dora Dora Station, Table Top Mountain",
         "language_group": "Wiradjuri",
@@ -900,7 +1080,10 @@
         "sources": "Smethwick 2003: 2; Schneider 2016: 29"
     },
     {
-        "estimated_date": "27 May 1836",
+        "estimated_date": {
+            "from": "27 May 1836",
+            "to": "27 May 1836"
+        },
         "colony": "NSW",
         "location": "Mt Dispersion, Murray River ",
         "language_group": "Kureinji or Dadi Dadi",
@@ -915,7 +1098,10 @@
         "sources": "Extracts from Proceedings\u2026Relating to Major Mitchell\u2019s Attack on Aborigines, 1836\u2019,  <i>SRNSW</i> CSO 4/118;   <i> The Australian</i> , November 8, 1836 -  <a href=\"https://trove.nla.gov.au/newspaper/page/4258629\">https://trove.nla.gov.au/newspaper/page/4258629</a> ; Mitchell 1838 vol. II: 101-2;  <i>HRA</i> , I, xviii: 590-1; Milliss 1992: 128-136."
     },
     {
-        "estimated_date": "1 Jun 1836 to 31 Jul 1836",
+        "estimated_date": {
+            "from": "1 Jun 1836",
+            "to": "31 Jul 1836"
+        },
         "colony": "NSW",
         "location": "Barraba ",
         "language_group": "Gamilaraay ",
@@ -930,7 +1116,10 @@
         "sources": "BPP 1839, vol.34, Paper 526; Gunson 1974: 138, 275-6."
     },
     {
-        "estimated_date": "16 Jul 1836",
+        "estimated_date": {
+            "from": "16 Jul 1836",
+            "to": "16 Jul 1836"
+        },
         "colony": "PPD",
         "location": "Mt Cottrell,Werribee",
         "language_group": "Wathawurrung",
@@ -945,7 +1134,10 @@
         "sources": "Cannon 1982: 41-52;  <i>Cornwall Chronicle</i>  July 30, 1836:2  <a href=\"http://nla.gov.au/nla.news-article65954557\">http://nla.gov.au/nla.news-article65954557</a> ;  Boyce 2011: 105-9; Rogers 2016: 275-85."
     },
     {
-        "estimated_date": "1 May 1837 to 31 May 1837",
+        "estimated_date": {
+            "from": "1 May 1837",
+            "to": "31 May 1837"
+        },
         "colony": "SRC",
         "location": "York",
         "language_group": "Ballardong Noongar",
@@ -960,7 +1152,10 @@
         "sources": "The Swan River Guardian, \u2018Blood and Innocent Blood again\u2019, 16 Nov 1837, Perth Gazette 29 July 1837, 944.  <a href=\"https://trove.nla.gov.au/newspaper/page/23543294\">https://trove.nla.gov.au/newspaper/page/23543294</a> H.W. Bunbury, 1834-37."
     },
     {
-        "estimated_date": "1 Nov 1837 to 30 Nov 1837",
+        "estimated_date": {
+            "from": "1 Nov 1837",
+            "to": "30 Nov 1837"
+        },
         "colony": "NSW",
         "location": "Gravesend Mountain, Liverpool Plains PD ",
         "language_group": "Gamilaraay",
@@ -975,7 +1170,10 @@
         "sources": "NSWLC  <i>V&amp;P</i>  1839, 19/6/1839: 25; Milliss 1992: 159"
     },
     {
-        "estimated_date": "1 Nov 1837 to 30 Nov 1837",
+        "estimated_date": {
+            "from": "1 Nov 1837",
+            "to": "30 Nov 1837"
+        },
         "colony": "PPD",
         "location": "Pyalong Station: Goulburn River: Mundy Massacre",
         "language_group": " Taungurung  ",
@@ -990,7 +1188,10 @@
         "sources": "Dredge Papers 8 Dec 1839: Bassett 1989: 26; Broome 2005: 79. "
     },
     {
-        "estimated_date": "26 Jan 1838",
+        "estimated_date": {
+            "from": "26 Jan 1838",
+            "to": "26 Jan 1838"
+        },
         "colony": "NSW",
         "location": "Waterloo Creek, Jews Lagoon",
         "language_group": "Gamilaraay",
@@ -1005,7 +1206,10 @@
         "sources": "Gunson 1974: 276; BPP 1839: vol.34, Paper 526;  <i>HRA, I</i> , xix, 250-6; Milliss 1992:175-80, 183-96; Ryan 2003: 33-43"
     },
     {
-        "estimated_date": "12 Apr 1838",
+        "estimated_date": {
+            "from": "12 Apr 1838",
+            "to": "12 Apr 1838"
+        },
         "colony": "PPD",
         "location": "Benalla: Faithfull Massacre ",
         "language_group": "Taungurung",
@@ -1020,7 +1224,10 @@
         "sources": "Cannon 1982: 312-334; Bride 1983: 217-9; Atkinson & Aveling 1987: 45-54; Bassett 1989: 18-34; Russell 2002: 50-1;  <i>Argus</i>  Sept 13, 1883  <a href=\"http://nla.gov.au/nla.news-article11828136\">http://nla.gov.au/nla.news-article11828136</a> ."
     },
     {
-        "estimated_date": "1 May 1838",
+        "estimated_date": {
+            "from": "1 May 1838",
+            "to": "1 May 1838"
+        },
         "colony": "NSW",
         "location": "Slaughterhouse Creek, Gwydir River",
         "language_group": "Gamilaraay",
@@ -1035,7 +1242,10 @@
         "sources": "Milliss 1992: 200-3"
     },
     {
-        "estimated_date": "1 Jun 1838 to 30 Jun 1838",
+        "estimated_date": {
+            "from": "1 Jun 1838",
+            "to": "30 Jun 1838"
+        },
         "colony": "PPD",
         "location": "Barfold Station, Campaspe Plains",
         "language_group": "Djadjawurrung",
@@ -1050,7 +1260,10 @@
         "sources": "Cannon & Macfarlane 1982a."
     },
     {
-        "estimated_date": "10 Jun 1838",
+        "estimated_date": {
+            "from": "10 Jun 1838",
+            "to": "10 Jun 1838"
+        },
         "colony": "NSW",
         "location": "Myall Creek",
         "language_group": "Gamilaraay or Yugambul",
@@ -1065,7 +1278,10 @@
         "sources": "<i>HRA, I</i> , xix: 701-14;  <i>The Australian</i> , 17 July: 3  <a href=\"http://nla.gov.au/nla.news-article36854124\">http://nla.gov.au/nla.news-article36854124</a> ; 17 November 1838 -  <a href=\"https://trove.nla.gov.au/newspaper/page/4298591\">https://trove.nla.gov.au/newspaper/page/4298591</a>  and 1 December 1838 -  <a href=\"https://trove.nla.gov.au/newspaper/page/4298615\">https://trove.nla.gov.au/newspaper/page/4298615</a>  "
     },
     {
-        "estimated_date": "1 Jul 1838 to 31 Jul 1838",
+        "estimated_date": {
+            "from": "1 Jul 1838",
+            "to": "31 Jul 1838"
+        },
         "colony": "PPD",
         "location": "Mt Mitchell Station",
         "language_group": "Djadjawurrung",
@@ -1080,7 +1296,10 @@
         "sources": "Lang 1847; Clark 1995."
     },
     {
-        "estimated_date": "1 Aug 1838 to 31 Aug 1838",
+        "estimated_date": {
+            "from": "1 Aug 1838",
+            "to": "31 Aug 1838"
+        },
         "colony": "NSW",
         "location": "Ardgowan Island, Gwydir River, Liverpool Plains PD",
         "language_group": "Wiriyaraay or Gamilaraay or Yugambul",
@@ -1095,7 +1314,10 @@
         "sources": "CCL Mayne to Thomson, 23-28 Feb 1839, SRNSW CSR39/2519"
     },
     {
-        "estimated_date": "1 Aug 1838 to 31 Aug 1838",
+        "estimated_date": {
+            "from": "1 Aug 1838",
+            "to": "31 Aug 1838"
+        },
         "colony": "PPD",
         "location": "Darlington Station",
         "language_group": "Djadjawurrung",
@@ -1110,7 +1332,10 @@
         "sources": "Cannon & Macfarlane 1983b."
     },
     {
-        "estimated_date": "1 Feb 1839 to 28 Feb 1839",
+        "estimated_date": {
+            "from": "1 Feb 1839",
+            "to": "28 Feb 1839"
+        },
         "colony": "PPD",
         "location": "Maiden Hills",
         "language_group": "Djadjawurrung",
@@ -1125,7 +1350,10 @@
         "sources": "Clark 1995; Clark 1998a."
     },
     {
-        "estimated_date": "1 Mar 1839 to 31 Mar 1839",
+        "estimated_date": {
+            "from": "1 Mar 1839",
+            "to": "31 Mar 1839"
+        },
         "colony": "NSW",
         "location": "Junction of Murray and Darling Rivers (1)",
         "language_group": "Tati tati",
@@ -1140,7 +1368,10 @@
         "sources": "<i>Southern Australian</i> , 24 April 1839: 3  <a href=\"http://nla.gov.au/nla.news-article71685226\">http://nla.gov.au/nla.news-article71685226</a> ;  <i>South Australian Gazette &amp; Colonial Register</i> , April 27, 1839: 2  <a href=\"http://nla.gov.au/nla.news-article31750562\">http://nla.gov.au/nla.news-article31750562</a>"
     },
     {
-        "estimated_date": "1 Oct 1839 to 31 Oct 1839",
+        "estimated_date": {
+            "from": "1 Oct 1839",
+            "to": "31 Oct 1839"
+        },
         "colony": "PPD",
         "location": "Murdering Gully, Mt Emu Creek",
         "language_group": "Djargurd Wurrung or Keeray- Woorroong or Wirngilgnad dhalinanong",
@@ -1155,7 +1386,10 @@
         "sources": "Kiddle 1961; Clark 1995."
     },
     {
-        "estimated_date": "11 Nov 1839",
+        "estimated_date": {
+            "from": "11 Nov 1839",
+            "to": "11 Nov 1839"
+        },
         "colony": "NSW",
         "location": "Junction, Darling & Murray Rivers (2)",
         "language_group": "Tati tati",
@@ -1170,7 +1404,10 @@
         "sources": "Buchanan 1922-3:75"
     },
     {
-        "estimated_date": "1 Dec 1839 to 31 Jan 1840",
+        "estimated_date": {
+            "from": "1 Dec 1839",
+            "to": "31 Jan 1840"
+        },
         "colony": "PPD",
         "location": "Blood Hole",
         "language_group": "Djadjawurrung",
@@ -1185,7 +1422,10 @@
         "sources": "Massola 1969: 88; Clark ID 1995: 97."
     },
     {
-        "estimated_date": "1 Dec 1839 to 31 Dec 1839",
+        "estimated_date": {
+            "from": "1 Dec 1839",
+            "to": "31 Dec 1839"
+        },
         "colony": "SA",
         "location": "Langhorne's Ferry/Rufus River, Murray River (1)",
         "language_group": "Maraura",
@@ -1200,7 +1440,10 @@
         "sources": "Moorhouse to Mundy, 12 July 1841, reproduced in   Burke et al. 2016:158. "
     },
     {
-        "estimated_date": "1 Jan 1840 to 31 Dec 1840",
+        "estimated_date": {
+            "from": "1 Jan 1840",
+            "to": "31 Dec 1840"
+        },
         "colony": "PPD",
         "location": "LaTrobe Valley ",
         "language_group": "unknown",
@@ -1215,7 +1458,10 @@
         "sources": "Gunson 1968:6"
     },
     {
-        "estimated_date": "8 Mar 1840",
+        "estimated_date": {
+            "from": "8 Mar 1840",
+            "to": "8 Mar 1840"
+        },
         "colony": "PPD",
         "location": "Fighting Hills",
         "language_group": "Nundadjali",
@@ -1230,7 +1476,10 @@
         "sources": "Journal of Neil Black 23 March 1840, VPRS 19-21; Reverend Joseph Orton Papers 1840-42, ML A1715; Bride [1898] 1983; Critchett 1990; Clark 1995."
     },
     {
-        "estimated_date": "1 Apr 1840",
+        "estimated_date": {
+            "from": "1 Apr 1840",
+            "to": "1 Apr 1840"
+        },
         "colony": "PPD",
         "location": "Fighting Waterholes",
         "language_group": "Wulluwurrung or Nundadjali",
@@ -1245,7 +1494,10 @@
         "sources": "Trangmar 1956; Clark 1995."
     },
     {
-        "estimated_date": "20 May 1840 to 31 May 1840",
+        "estimated_date": {
+            "from": "20 May 1840",
+            "to": "31 May 1840"
+        },
         "colony": "NSW",
         "location": "Kunderang Brook Upper Macleay River Valley",
         "language_group": "Dhanggati",
@@ -1260,7 +1512,10 @@
         "sources": "<i>SH</i>  June 10, 1840 -  <a href=\"https://trove.nla.gov.au/newspaper/page/1523969\">https://trove.nla.gov.au/newspaper/page/1523969</a> ; Henderson 1851, vol.2: 5: Frost 1992:34. "
     },
     {
-        "estimated_date": "1 Jun 1840 to 30 Jun 1840",
+        "estimated_date": {
+            "from": "1 Jun 1840",
+            "to": "30 Jun 1840"
+        },
         "colony": "PPD",
         "location": "Mount Rouse",
         "language_group": "Djab wurrung or Gai wurrung",
@@ -1275,7 +1530,10 @@
         "sources": "<i>HRA</i>  Series I, xxi; Critchett 1990; Clark 1995; Clark 1998b."
     },
     {
-        "estimated_date": "1 Jun 1840 to 30 Jun 1840",
+        "estimated_date": {
+            "from": "1 Jun 1840",
+            "to": "30 Jun 1840"
+        },
         "colony": "PPD",
         "location": "Mustons Station",
         "language_group": "Djabwurrung or Gai wurrung",
@@ -1290,7 +1548,10 @@
         "sources": "Critchett 1990; Clark 1995; Clark 1998b."
     },
     {
-        "estimated_date": "1 Jun 1840 to 30 Jun 1840",
+        "estimated_date": {
+            "from": "1 Jun 1840",
+            "to": "30 Jun 1840"
+        },
         "colony": "SA",
         "location": "Langhornes Ferry/Rufus River, Murray River (2)",
         "language_group": "Erawirung",
@@ -1305,7 +1566,10 @@
         "sources": "Moorhouse to Mundy, 12 July 1841, reproduced in Burke et.al. 2016: 158. "
     },
     {
-        "estimated_date": "9 Jun 1840",
+        "estimated_date": {
+            "from": "9 Jun 1840",
+            "to": "9 Jun 1840"
+        },
         "colony": "PPD",
         "location": "Barnadown Station, Campaspe Plains",
         "language_group": "Djadjawurrung or Ngurai-illamwurrung",
@@ -1320,7 +1584,10 @@
         "sources": "Randell 1982; Cannon & Macfarlane 1983b."
     },
     {
-        "estimated_date": "1 Jul 1840 to 14 Jul 1840",
+        "estimated_date": {
+            "from": "1 Jul 1840",
+            "to": "14 Jul 1840"
+        },
         "colony": "SA",
         "location": "Maria massacre, Coorong",
         "language_group": "Milmenrua",
@@ -1335,7 +1602,10 @@
         "sources": "<i>SA Register</i> , 1 August  <a href=\"http://nla.gov.au/nla.news-article27441699\">http://nla.gov.au/nla.news-article27441699</a> ; 15  <a href=\"http://nla.gov.au/nla.news-article27441755\">http://nla.gov.au/nla.news-article27441755</a> ; Sept 12  <a href=\"http://nla.gov.au/nla.news-article27441838\">http://nla.gov.au/nla.news-article27441838</a> , 19  <a href=\"http://nla.gov.au/nla.news-article27441856\">http://nla.gov.au/nla.news-article27441856</a> , 1840; Clyne, 1981; Hamann 1973; Foster, et al 2001:13-28. "
     },
     {
-        "estimated_date": "1 Aug 1840 to 31 Aug 1840",
+        "estimated_date": {
+            "from": "1 Aug 1840",
+            "to": "31 Aug 1840"
+        },
         "colony": "PPD",
         "location": "Victoria Valley",
         "language_group": "Djabwurrung",
@@ -1350,7 +1620,10 @@
         "sources": "Reverend Joseph Orton Papers 1840-42, ML A1715; Clark 1995."
     },
     {
-        "estimated_date": "1 Oct 1840 to 31 Oct 1840",
+        "estimated_date": {
+            "from": "1 Oct 1840",
+            "to": "31 Oct 1840"
+        },
         "colony": "PPD",
         "location": "Boney Point, Gippsland",
         "language_group": "Gunnai or Tatungalung or Braiakaulung",
@@ -1365,7 +1638,10 @@
         "sources": "<i>SH</i>  December 28, 1840 -  <a href=\"https://trove.nla.gov.au/newspaper/page/3923508\">https://trove.nla.gov.au/newspaper/page/3923508</a> ; Bride 1983: 210; Pepper and de Araugo 1985: 18; Gardner 2001:  44-9."
     },
     {
-        "estimated_date": "1 Nov 1840 to 30 Nov 1840",
+        "estimated_date": {
+            "from": "1 Nov 1840",
+            "to": "30 Nov 1840"
+        },
         "colony": "PPD",
         "location": "Connell\u2019s Ford",
         "language_group": "Nundadjali or Wulluwwurrung",
@@ -1380,7 +1656,10 @@
         "sources": "G A Robinson Papers, Vol. 54 ML A7052; Trangmar 1956; Clark 1998b. "
     },
     {
-        "estimated_date": "1 Nov 1840 to 30 Nov 1840",
+        "estimated_date": {
+            "from": "1 Nov 1840",
+            "to": "30 Nov 1840"
+        },
         "colony": "PPD",
         "location": "Burrumbeep",
         "language_group": "Pirtpirtwurrung",
@@ -1395,7 +1674,10 @@
         "sources": "Clark ID 1995: 73, 77; Clark ID 1998b: 316-336"
     },
     {
-        "estimated_date": "1 Dec 1840 to 31 Dec 1840",
+        "estimated_date": {
+            "from": "1 Dec 1840",
+            "to": "31 Dec 1840"
+        },
         "colony": "PPD",
         "location": "Tahara Station",
         "language_group": "Wulluwurrung",
@@ -1410,7 +1692,10 @@
         "sources": "Reverend Joseph Orton Papers 1840-42, ML A 1715. "
     },
     {
-        "estimated_date": "1 Jan 1841 to 31 Dec 1841",
+        "estimated_date": {
+            "from": "1 Jan 1841",
+            "to": "31 Dec 1841"
+        },
         "colony": "PPD",
         "location": "Butchers Creek",
         "language_group": "Tatungalung",
@@ -1425,7 +1710,10 @@
         "sources": "Gardner 2001: 49-52; Gardner 2010: 3, 9."
     },
     {
-        "estimated_date": "1 Jan 1841 to 31 Dec 1841",
+        "estimated_date": {
+            "from": "1 Jan 1841",
+            "to": "31 Dec 1841"
+        },
         "colony": "NSW",
         "location": "Butcher's Creek, Barwon River",
         "language_group": "Pooncarie/Parkantyi",
@@ -1440,7 +1728,10 @@
         "sources": "Dargin 1976:51-2; Thomas 2012:382-6"
     },
     {
-        "estimated_date": "1 Jan 1841 to 31 Dec 1841",
+        "estimated_date": {
+            "from": "1 Jan 1841",
+            "to": "31 Dec 1841"
+        },
         "colony": "NSW",
         "location": "Black Camp Creek, (Spring Gully Creek), Williams River  ",
         "language_group": "Worimi ",
@@ -1455,7 +1746,10 @@
         "sources": "Ford 1995:128"
     },
     {
-        "estimated_date": "27 Feb 1841 to 10 Mar 1841",
+        "estimated_date": {
+            "from": "27 Feb 1841",
+            "to": "10 Mar 1841"
+        },
         "colony": "SRC",
         "location": "Wonnerup 'Minninup'",
         "language_group": "Wardandi Noongar ",
@@ -1470,7 +1764,10 @@
         "sources": "<i>Perth Gazette</i> ,  13 March  1841: 3  <a href=\"https://trove.nla.gov.au/newspaper/article/642768\">https://trove.nla.gov.au/newspaper/article/642768</a> ;   Kimberly 1897: 116; White, 2017: 2-13.\r\n\r\n\r\n"
     },
     {
-        "estimated_date": "1 Apr 1841 to 30 Apr 1841",
+        "estimated_date": {
+            "from": "1 Apr 1841",
+            "to": "30 Apr 1841"
+        },
         "colony": "NSW",
         "location": "Orara River, near Seelands ",
         "language_group": "Ngarabal?",
@@ -1485,7 +1782,10 @@
         "sources": "<i>SRNSW</i>  CSIL CCL 1841 4/2525; Kent 2006."
     },
     {
-        "estimated_date": "1 May 1841 to 31 May 1841",
+        "estimated_date": {
+            "from": "1 May 1841",
+            "to": "31 May 1841"
+        },
         "colony": "NSW",
         "location": "Darkie Point, Bellingen River,  New England Pastoral District",
         "language_group": "Baanbay",
@@ -1500,7 +1800,10 @@
         "sources": "Eldershaw 1851: 60-65; Blomfield 1981: 85-91; Elder 2005: 105-117"
     },
     {
-        "estimated_date": "1 May 1841 to 31 May 1841",
+        "estimated_date": {
+            "from": "1 May 1841",
+            "to": "31 May 1841"
+        },
         "colony": "SA",
         "location": "Hornet's Nest,  68 kms east of Lake Bonney, Murray River",
         "language_group": "Ngintait",
@@ -1515,7 +1818,10 @@
         "sources": "Burke et al  2016:135-179"
     },
     {
-        "estimated_date": "1 Jun 1841 to 30 Jun 1841",
+        "estimated_date": {
+            "from": "1 Jun 1841",
+            "to": "30 Jun 1841"
+        },
         "colony": "PPD",
         "location": "Mount Sturgeon Station",
         "language_group": "Djabwurrung",
@@ -1530,7 +1836,10 @@
         "sources": "Clark 1998b."
     },
     {
-        "estimated_date": "1 Jun 1841 to 25 Jul 1841",
+        "estimated_date": {
+            "from": "1 Jun 1841",
+            "to": "25 Jul 1841"
+        },
         "colony": "PPD",
         "location": "Woodlands",
         "language_group": "Knenknenwurrung",
@@ -1545,7 +1854,10 @@
         "sources": "Critchett 1990: 248; Shaw 1996: 130,134."
     },
     {
-        "estimated_date": "23 Aug 1841",
+        "estimated_date": {
+            "from": "23 Aug 1841",
+            "to": "23 Aug 1841"
+        },
         "colony": "PPD",
         "location": "Rufus River",
         "language_group": "Yuyu or Ngintait or Marawara",
@@ -1560,7 +1872,10 @@
         "sources": "Grey to Russell, 29 May 1841, with enclosures CO 13/ AJCP 584."
     },
     {
-        "estimated_date": "27 Aug 1841",
+        "estimated_date": {
+            "from": "27 Aug 1841",
+            "to": "27 Aug 1841"
+        },
         "colony": "SA",
         "location": "Rufus River, Lake Victoria ",
         "language_group": "Maraura ",
@@ -1575,7 +1890,10 @@
         "sources": "Grey to Russell, May 29, 1841,  NSW Governors\u2019 Despatches, ML A1197, vol.16.: Burke et al. 2016:152-3"
     },
     {
-        "estimated_date": "1 Oct 1841 to 31 Oct 1841",
+        "estimated_date": {
+            "from": "1 Oct 1841",
+            "to": "31 Oct 1841"
+        },
         "colony": "NSW",
         "location": "Grantham, Moreton Bay  Pastoral District",
         "language_group": "Yugara or Giabal",
@@ -1590,7 +1908,10 @@
         "sources": "Evans 2007: 53; A. Hodgson, Report on Aboriginal Outrage, October 27, 1841, SRNSW Col.Sec. 41/9744, CSL micro 12; Moreton Bay Book of Trials, January 13, 1842, OML."
     },
     {
-        "estimated_date": "1 Oct 1841 to 31 Oct 1841",
+        "estimated_date": {
+            "from": "1 Oct 1841",
+            "to": "31 Oct 1841"
+        },
         "colony": "NSW",
         "location": "Bogan River beyond Mt Harris",
         "language_group": "Ngiyampaa",
@@ -1605,7 +1926,10 @@
         "sources": "<i>SMH</i>  August 24, 1842 -  <a href=\"https://trove.nla.gov.au/newspaper/page/3858885\">https://trove.nla.gov.au/newspaper/page/3858885</a> ; Mitchell 1848: 30; Reece 1974:51; Muir 2014: 39"
     },
     {
-        "estimated_date": "1 Dec 1841 to 28 Feb 1842",
+        "estimated_date": {
+            "from": "1 Dec 1841",
+            "to": "28 Feb 1842"
+        },
         "colony": "PPD",
         "location": "King River, above Oxley Plains(Wangaratta) ",
         "language_group": "",
@@ -1620,7 +1944,10 @@
         "sources": "Sayers, 1969: 217-222;  <i>Argus,</i>  September 13 1883: 9  <a href=\"http://nla.gov.au/nla.news-article11828136\">http://nla.gov.au/nla.news-article11828136</a>"
     },
     {
-        "estimated_date": "1 Feb 1842 to 28 Feb 1842",
+        "estimated_date": {
+            "from": "1 Feb 1842",
+            "to": "28 Feb 1842"
+        },
         "colony": "PPD",
         "location": "Tarrone Station, February 1842",
         "language_group": "Koornkopanoot or Bi:gwurrung",
@@ -1635,7 +1962,10 @@
         "sources": "Clark ID 1995: 34-5"
     },
     {
-        "estimated_date": "1 Feb 1842 to 28 Feb 1842",
+        "estimated_date": {
+            "from": "1 Feb 1842",
+            "to": "28 Feb 1842"
+        },
         "colony": "NSW",
         "location": "Kilcoy",
         "language_group": "Giggarbarah, Woongunbarah and other groups in transit",
@@ -1650,7 +1980,10 @@
         "sources": "Lang 1847: 279; Qld Parlt Legislative Assembly: 1861:19 Select Ctee in to the Native Police;  <i>Queenslander,</i>  May 21, 1892: 987,   <a href=\"http://nla.gov.au/nla.news-article19824074\">http://nla.gov.au/nla.news-article19824074</a> ;  <i>SMH</i>  5 December 1842  <a href=\"http://nla.gov.au/nla.news-article12426931\">http://nla.gov.au/nla.news-article12426931</a> . "
     },
     {
-        "estimated_date": "24 Feb 1842",
+        "estimated_date": {
+            "from": "24 Feb 1842",
+            "to": "24 Feb 1842"
+        },
         "colony": "PPD",
         "location": "Lubra Creek, Caramut Station",
         "language_group": "Gai wurrung or Djabwurrung",
@@ -1665,7 +1998,10 @@
         "sources": "BPP 1844: 234; Thomas Papers, ML Item 21; Robinson Papers, vol.57, p.46, ms ML A 7078; Critchett 1990:  108, 119, 250; Clark ID 1995: 35-42."
     },
     {
-        "estimated_date": "1 May 1842 to 15 May 1842",
+        "estimated_date": {
+            "from": "1 May 1842",
+            "to": "15 May 1842"
+        },
         "colony": "SA",
         "location": "Pillaworta Station, Arno Bay, Eyre Peninsula",
         "language_group": "Battara",
@@ -1680,7 +2016,10 @@
         "sources": "Foster et al 2001:64"
     },
     {
-        "estimated_date": "7 Aug 1842 to 18 Aug 1842",
+        "estimated_date": {
+            "from": "7 Aug 1842",
+            "to": "18 Aug 1842"
+        },
         "colony": "PPD",
         "location": "Eumerella",
         "language_group": "Tatungalung",
@@ -1695,7 +2034,10 @@
         "sources": "BPP 1844: 234; Critchett 1990: 108, 250."
     },
     {
-        "estimated_date": "11 Sep 1842",
+        "estimated_date": {
+            "from": "11 Sep 1842",
+            "to": "11 Sep 1842"
+        },
         "colony": "NSW",
         "location": "Deepwater (1), New England Pastoral District ",
         "language_group": "Guyambal or Ngarabul or Marbal",
@@ -1710,7 +2052,10 @@
         "sources": "Irby 1908: 60-63"
     },
     {
-        "estimated_date": "1 Oct 1842 to 31 Oct 1842",
+        "estimated_date": {
+            "from": "1 Oct 1842",
+            "to": "31 Oct 1842"
+        },
         "colony": "PPD",
         "location": "Tarrone Station, October 1842",
         "language_group": "Bi:gwurrung or Koornkopanoot",
@@ -1725,7 +2070,10 @@
         "sources": "Clark 1995. "
     },
     {
-        "estimated_date": "1 Oct 1842 to 31 Dec 1842",
+        "estimated_date": {
+            "from": "1 Oct 1842",
+            "to": "31 Dec 1842"
+        },
         "colony": "NSW",
         "location": "Yandilla and Tummaville, Darling Downs Pastoral District ",
         "language_group": "Bigambul?",
@@ -1740,7 +2088,10 @@
         "sources": "French 1989: 102; Russell 1888: 238-9, 348"
     },
     {
-        "estimated_date": "1 Dec 1842 to 31 Dec 1842",
+        "estimated_date": {
+            "from": "1 Dec 1842",
+            "to": "31 Dec 1842"
+        },
         "colony": "PPD",
         "location": "Hollands Landing",
         "language_group": "Tatungalung",
@@ -1755,7 +2106,10 @@
         "sources": "Gardner 2016; Dunderdale 1973"
     },
     {
-        "estimated_date": "1 Jan 1843 to 31 Dec 1843",
+        "estimated_date": {
+            "from": "1 Jan 1843",
+            "to": "31 Dec 1843"
+        },
         "colony": "NSW",
         "location": "Dirawong / Goanna Headland, Evans Head  ",
         "language_group": "Bundjalung",
@@ -1770,7 +2124,10 @@
         "sources": "Medcalf 1993:5-7"
     },
     {
-        "estimated_date": "12 Jan 1843 to 31 Dec 1843",
+        "estimated_date": {
+            "from": "12 Jan 1843",
+            "to": "31 Dec 1843"
+        },
         "colony": "NSW",
         "location": "Sheep Station Bluff  Upper McLeay River",
         "language_group": "Dhanggati",
@@ -1785,7 +2142,10 @@
         "sources": "<i>SMH</i>  June 20, 1843 -  <a href=\"https://trove.nla.gov.au/newspaper/page/1520441\">https://trove.nla.gov.au/newspaper/page/1520441</a> ; Blomfield 1981: 40-41"
     },
     {
-        "estimated_date": "1 Feb 1843 to 28 Feb 1843",
+        "estimated_date": {
+            "from": "1 Feb 1843",
+            "to": "28 Feb 1843"
+        },
         "colony": "PPD",
         "location": "Barmah Lake",
         "language_group": "Barababaraba or Jabulajabula or Yorta Yorta",
@@ -1800,7 +2160,10 @@
         "sources": "Curr [1889] 1965; Clark 1998d."
     },
     {
-        "estimated_date": "1 Jul 1843 to 31 Jul 1843",
+        "estimated_date": {
+            "from": "1 Jul 1843",
+            "to": "31 Jul 1843"
+        },
         "colony": "PPD",
         "location": "Warrigal Creek Waterhole",
         "language_group": "Brataualung",
@@ -1815,7 +2178,10 @@
         "sources": "Gardner 2001: 47-61; Pepper and de Araugo 1985:24; Cannon 1990:171; Shaw 1996: 133; Bartrop 2004: 99-205."
     },
     {
-        "estimated_date": "1 Jul 1843 to 31 Jul 1843",
+        "estimated_date": {
+            "from": "1 Jul 1843",
+            "to": "31 Jul 1843"
+        },
         "colony": "PPD",
         "location": "Warrigal Creek Mouth ",
         "language_group": "Brataualung",
@@ -1830,7 +2196,10 @@
         "sources": "Gardner 2001: 47-61; Pepper and de Araugo 1985:24; Cannon 1990: 171; Shaw 1996:133; Bartrop 2004: 99-206."
     },
     {
-        "estimated_date": "15 Jul 1843 to 31 Jul 1843",
+        "estimated_date": {
+            "from": "15 Jul 1843",
+            "to": "31 Jul 1843"
+        },
         "colony": "PPD",
         "location": "Freshwater Creek, Gippsland ",
         "language_group": "Brataualung",
@@ -1845,7 +2214,10 @@
         "sources": "Gardner 2001: 47-61; Pepper and de Araugo 1985: 24; Cannon 1990: 171; Shaw 1996: 133; Bartrop 2004: 99-207."
     },
     {
-        "estimated_date": "15 Jul 1843 to 31 Jul 1843",
+        "estimated_date": {
+            "from": "15 Jul 1843",
+            "to": "31 Jul 1843"
+        },
         "colony": "PPD",
         "location": "Gammon Creek, Gippsland",
         "language_group": "Brataualung",
@@ -1860,7 +2232,10 @@
         "sources": "Gardner 2001: 47-61; Pepper and de Araugo 1985: 24; Cannon 1990: 171; Shaw 1996: 133: Bartrop 2004: 99-208."
     },
     {
-        "estimated_date": "27 Jul 1843",
+        "estimated_date": {
+            "from": "27 Jul 1843",
+            "to": "27 Jul 1843"
+        },
         "colony": "NSW",
         "location": "Mt Haldon, Darling Downs Pastoral District ",
         "language_group": "Yugara or Garumngar",
@@ -1875,7 +2250,10 @@
         "sources": "French 1989:104; Rolleston to Col Sec, August 15,  October 12, 1843, CCL Correspondence 1843,  <i>SRNSW</i> , 4/2601"
     },
     {
-        "estimated_date": "1 Aug 1843 to 30 Aug 1843",
+        "estimated_date": {
+            "from": "1 Aug 1843",
+            "to": "30 Aug 1843"
+        },
         "colony": "PPD",
         "location": "Victoria Range",
         "language_group": "Djabwurrung or Nundadjali",
@@ -1890,7 +2268,10 @@
         "sources": "Clark 1995;  <i>Port Phillip Gazette</i>  26 August, 1843  <a href=\"https://trove.nla.gov.au/newspaper/page/23203900\"> https://trove.nla.gov.au/newspaper/page/23203900</a> ."
     },
     {
-        "estimated_date": "1 Sep 1843 to 10 Sep 1843",
+        "estimated_date": {
+            "from": "1 Sep 1843",
+            "to": "10 Sep 1843"
+        },
         "colony": "PPD",
         "location": "Fitzroy River (1)",
         "language_group": "Dhauwurd wurrung",
@@ -1905,7 +2286,10 @@
         "sources": "Shaw 1996: 132; Critchett 1990: 252."
     },
     {
-        "estimated_date": "1 Sep 1843 to 30 Sep 1843",
+        "estimated_date": {
+            "from": "1 Sep 1843",
+            "to": "30 Sep 1843"
+        },
         "colony": "PPD",
         "location": "Crawford River",
         "language_group": "Dhauwurd wurrung or Wulluwurrung",
@@ -1920,7 +2304,10 @@
         "sources": "Clark 1995."
     },
     {
-        "estimated_date": "1 Sep 1843 to 31 Oct 1843",
+        "estimated_date": {
+            "from": "1 Sep 1843",
+            "to": "31 Oct 1843"
+        },
         "colony": "NSW",
         "location": "Rosewood Scrub, Moreton Bay Pastoral District ",
         "language_group": "Yugara? ",
@@ -1935,7 +2322,10 @@
         "sources": "<i>SMH</i>  October 12, 1843: 3 -  <a href=\"https://trove.nla.gov.au/newspaper/page/1520833\">https://trove.nla.gov.au/newspaper/page/1520833</a> ; Copland et al. 2006: 25-6"
     },
     {
-        "estimated_date": "1 Nov 1843 to 30 Nov 1843",
+        "estimated_date": {
+            "from": "1 Nov 1843",
+            "to": "30 Nov 1843"
+        },
         "colony": "PPD",
         "location": "Clunie",
         "language_group": "Nundadjali or Mardidjali",
@@ -1950,7 +2340,10 @@
         "sources": "Critchett 1990: 253; Shaw 1996: 132."
     },
     {
-        "estimated_date": "1 Nov 1843 to 1 Jun 1844",
+        "estimated_date": {
+            "from": "1 Nov 1843",
+            "to": "1 Jun 1844"
+        },
         "colony": "PPD",
         "location": "Tambo Crossing ",
         "language_group": "Tatungalung or Brabralung",
@@ -1965,7 +2358,10 @@
         "sources": "Mackaness 1941: 13; Gardner 1995: 40-51; Clark 1998d: 102."
     },
     {
-        "estimated_date": "1 Jan 1844 to 31 Dec 1847",
+        "estimated_date": {
+            "from": "1 Jan 1844",
+            "to": "31 Dec 1847"
+        },
         "colony": "NSW",
         "location": "Crampton\u2019s Corner, Maranoa Pastoral District",
         "language_group": "Gawambaraay or Bigambul?",
@@ -1980,7 +2376,10 @@
         "sources": "Copland 1990: 17-19; Gunn nd: Letter \u2018Goondiwindi and District file\u2019 Royal Queensland Historical Society; Browne 1922: 22-4"
     },
     {
-        "estimated_date": "10 Jul 1844 to 20 Jul 1844",
+        "estimated_date": {
+            "from": "10 Jul 1844",
+            "to": "20 Jul 1844"
+        },
         "colony": "SA",
         "location": "Mt Bryan, near Burra ",
         "language_group": "",
@@ -1995,7 +2394,10 @@
         "sources": "Pope 1989:113-119: Southern Australian, 3 December 1844. "
     },
     {
-        "estimated_date": "17 Oct 1844",
+        "estimated_date": {
+            "from": "17 Oct 1844",
+            "to": "17 Oct 1844"
+        },
         "colony": "NSW",
         "location": "Bluff Rock New England Pastoral District",
         "language_group": "Marbal or Ngarbal",
@@ -2010,7 +2412,10 @@
         "sources": "Irby 1908: 77, 90; Schlunke 2005: 59-60; Walker, 1966: 30"
     },
     {
-        "estimated_date": "1 Jan 1845 to 31 Dec 1845",
+        "estimated_date": {
+            "from": "1 Jan 1845",
+            "to": "31 Dec 1845"
+        },
         "colony": "NSW",
         "location": "Darkey Flat ",
         "language_group": "Geynyan?",
@@ -2025,7 +2430,10 @@
         "sources": "Hall c1925: 103-4; French 1989: 99"
     },
     {
-        "estimated_date": "1 Jan 1845 to 31 Dec 1845",
+        "estimated_date": {
+            "from": "1 Jan 1845",
+            "to": "31 Dec 1845"
+        },
         "colony": "NSW",
         "location": "Upper Macleay River ",
         "language_group": "Dhanggati",
@@ -2040,7 +2448,10 @@
         "sources": "McMaugh, H.A. nd: 6; Blomfield, 1981: 36-8"
     },
     {
-        "estimated_date": "1 Mar 1845",
+        "estimated_date": {
+            "from": "1 Mar 1845",
+            "to": "1 Mar 1845"
+        },
         "colony": "NSW",
         "location": "Deepwater (2), New England Pastoral District ",
         "language_group": "Guyambal or Ngarabul or Marbal",
@@ -2055,7 +2466,10 @@
         "sources": "Walker 1966: 30; Reece 1974: 187"
     },
     {
-        "estimated_date": "1 Jul 1845 to 31 Jul 1845",
+        "estimated_date": {
+            "from": "1 Jul 1845",
+            "to": "31 Jul 1845"
+        },
         "colony": "PPD",
         "location": "Mt Arapiles",
         "language_group": "Mardidjali",
@@ -2070,7 +2484,10 @@
         "sources": "Critchett 1990: 254."
     },
     {
-        "estimated_date": "2 Jul 1845",
+        "estimated_date": {
+            "from": "2 Jul 1845",
+            "to": "2 Jul 1845"
+        },
         "colony": "PPD",
         "location": "Naracoorte Caves",
         "language_group": "Buandig",
@@ -2085,7 +2502,10 @@
         "sources": "Blair to La Trobe, July 31 1845, VPRS in file 45/1721; 19, 45/1391; Critchett 1990: 254; Cannon 1990: 154-5."
     },
     {
-        "estimated_date": "1 Sep 1845 to 30 Sep 1845",
+        "estimated_date": {
+            "from": "1 Sep 1845",
+            "to": "30 Sep 1845"
+        },
         "colony": "NSW",
         "location": "Mount Foster, Wellington Pastoral District",
         "language_group": "",
@@ -2100,7 +2520,10 @@
         "sources": "<i>HRA, I</i> , xxv: 8-10"
     },
     {
-        "estimated_date": "1 Jan 1846 to 31 Dec 1846",
+        "estimated_date": {
+            "from": "1 Jan 1846",
+            "to": "31 Dec 1846"
+        },
         "colony": "NSW",
         "location": "Junction of Murray and Murrumbidgee Rivers",
         "language_group": "Dadi Dadi or Weki Weki",
@@ -2115,7 +2538,10 @@
         "sources": "Collins 2002:48-9"
     },
     {
-        "estimated_date": "1 Aug 1846 to 31 Aug 1846",
+        "estimated_date": {
+            "from": "1 Aug 1846",
+            "to": "31 Aug 1846"
+        },
         "colony": "NSW",
         "location": "Bogan River, Wellington Pastoral  District ",
         "language_group": "unknown",
@@ -2130,7 +2556,10 @@
         "sources": "<i>HRA, I</i> , xxv:63"
     },
     {
-        "estimated_date": "1 Aug 1846 to 2 Aug 1846",
+        "estimated_date": {
+            "from": "1 Aug 1846",
+            "to": "2 Aug 1846"
+        },
         "colony": "PPD",
         "location": "Aire River Estuary, Cape Otway",
         "language_group": "Gadubanud",
@@ -2145,7 +2574,10 @@
         "sources": "Geelong Advertiser and Squatter's Advocate, 8,22 and 29 August 1846; Cannon 1190:147; Niewojt 2010:193-213; "
     },
     {
-        "estimated_date": "1 Oct 1846",
+        "estimated_date": {
+            "from": "1 Oct 1846",
+            "to": "1 Oct 1846"
+        },
         "colony": "NSW",
         "location": "Dourallie Creek, Upper Macleay River Valley",
         "language_group": "Dhanggati",
@@ -2160,7 +2592,10 @@
         "sources": "<i>SMH</i>  October 20, 1846 -  <a href=\"https://trove.nla.gov.au/newspaper/page/1516179\">https://trove.nla.gov.au/newspaper/page/1516179</a> ; Blomfield 1981: 46-7; McLaren 1946: 110"
     },
     {
-        "estimated_date": "16 Dec 1846",
+        "estimated_date": {
+            "from": "16 Dec 1846",
+            "to": "16 Dec 1846"
+        },
         "colony": "PPD",
         "location": "Snowy River ",
         "language_group": "Tatungalung or Krauatungulung",
@@ -2175,7 +2610,10 @@
         "sources": "Fels 1988: 188-192; Shaw 1996: 133"
     },
     {
-        "estimated_date": "10 Apr 1847 to 20 Apr 1847",
+        "estimated_date": {
+            "from": "10 Apr 1847",
+            "to": "20 Apr 1847"
+        },
         "colony": "NSW",
         "location": "Whiteside Station, Moreton Bay Pastoral District ",
         "language_group": "Buyibara or Yugarabul",
@@ -2190,7 +2628,10 @@
         "sources": "<i>MBC</i>  24 Apr 1847  <a href=\"http://nla.gov.au/nla.news-article3716282\">http://nla.gov.au/nla.news-article3716282</a> ;  <i>The Australian</i>  13 Apr 1847   <a href=\"https://trove.nla.gov.au/newspaper/page/4262495\">https://trove.nla.gov.au/newspaper/page/4262495</a>"
     },
     {
-        "estimated_date": "1 Jul 1847 to 31 Jul 1847",
+        "estimated_date": {
+            "from": "1 Jul 1847",
+            "to": "31 Jul 1847"
+        },
         "colony": "PPD",
         "location": "Mt Eccles",
         "language_group": "Dhauwurd wurrung",
@@ -2205,7 +2646,10 @@
         "sources": "Broughton 1980; Clark 1995; Clark 2000. "
     },
     {
-        "estimated_date": "1 Jul 1847 to 31 Jul 1847",
+        "estimated_date": {
+            "from": "1 Jul 1847",
+            "to": "31 Jul 1847"
+        },
         "colony": "PPD",
         "location": "Mt Napier",
         "language_group": "Wulluwurrung or Djabwurrung or Gai wurrung",
@@ -2220,7 +2664,10 @@
         "sources": "Bonwick 1870b; Critchett 1990; Clark 1995."
     },
     {
-        "estimated_date": "12 Sep 1847 to 30 Sep 1847",
+        "estimated_date": {
+            "from": "12 Sep 1847",
+            "to": "30 Sep 1847"
+        },
         "colony": "NSW",
         "location": "Boonall Station, MacIntyre River region",
         "language_group": "Bigambul or Gawambaraay",
@@ -2235,7 +2682,10 @@
         "sources": "Bligh, CCL, Gwydir to C C C L, 10 Jan 1849;   <i>SRNSW</i> , 2/7634;  <i>SMH</i> , October 15, 1847 -  <a href=\"https://trove.nla.gov.au/newspaper/article/12901587/1515260\">https://trove.nla.gov.au/newspaper/article/12901587/1515260</a> ; Watts 1901: 20; Webb  1922: 7-12;  Milliss 1980: 39-42; Tonge nd: 22-3; Copland 1990: 52-4."
     },
     {
-        "estimated_date": "1 Oct 1847 to 31 Oct 1847",
+        "estimated_date": {
+            "from": "1 Oct 1847",
+            "to": "31 Oct 1847"
+        },
         "colony": "NSW",
         "location": "Callandoon Station MacIntyre River",
         "language_group": "Gungabula",
@@ -2250,7 +2700,10 @@
         "sources": "Tonge, n.d. 22-4"
     },
     {
-        "estimated_date": "29 Nov 1847",
+        "estimated_date": {
+            "from": "29 Nov 1847",
+            "to": "29 Nov 1847"
+        },
         "colony": "NSW",
         "location": "Kangaroo Creek, Clarence Pastoral District",
         "language_group": "Gumbaynggnir",
@@ -2265,7 +2718,10 @@
         "sources": "<i>HRA I</i> , xxvi: 392, 395;  Lydon 1996: 151-175"
     },
     {
-        "estimated_date": "1 Jan 1848 to 31 Dec 1848",
+        "estimated_date": {
+            "from": "1 Jan 1848",
+            "to": "31 Dec 1848"
+        },
         "colony": "NSW",
         "location": "Warroo Massacre, Maranoa Pastoral District ",
         "language_group": "Bigambul from north of the Macintyre",
@@ -2280,7 +2736,10 @@
         "sources": "Collins 2002: 20-22; Milliss 1980: 71, 201; MacPherson 1879"
     },
     {
-        "estimated_date": "1 Jan 1848 to 31 Dec 1848",
+        "estimated_date": {
+            "from": "1 Jan 1848",
+            "to": "31 Dec 1848"
+        },
         "colony": "NSW",
         "location": "Fitzgerald\u2019s Burgurrah Station Maranoa Pastoral District",
         "language_group": "Mandandanji or Bigambul or Wirray Wirray or Kogai",
@@ -2295,7 +2754,10 @@
         "sources": "Collins 2002: 20; Milliss 1980: 70; MacPherson 1879:13"
     },
     {
-        "estimated_date": "1 Jun 1848 to 30 Jun 1848",
+        "estimated_date": {
+            "from": "1 Jun 1848",
+            "to": "30 Jun 1848"
+        },
         "colony": "PPD",
         "location": "Beveridge Island",
         "language_group": "Wemba Wemba or Wadi Wadi ",
@@ -2310,7 +2772,10 @@
         "sources": "Cannon 1990."
     },
     {
-        "estimated_date": "30 Jun 1848",
+        "estimated_date": {
+            "from": "30 Jun 1848",
+            "to": "30 Jun 1848"
+        },
         "colony": "NSW",
         "location": "Umbercollie Station, MacIntyre River",
         "language_group": "Bigambul",
@@ -2325,7 +2790,10 @@
         "sources": "Maitland Circuit Court Depositions March/April 1849; Tonge, n.d.: 25; Copland et al. 2006: 42; "
     },
     {
-        "estimated_date": "1 Oct 1848 to 31 Oct 1848",
+        "estimated_date": {
+            "from": "1 Oct 1848",
+            "to": "31 Oct 1848"
+        },
         "colony": "NSW",
         "location": "Muckadilla Creek Maranoa Pastoral District",
         "language_group": "Mandandanji",
@@ -2340,7 +2808,10 @@
         "sources": "MacPherson 1879: 14; Collins 2002: 279"
     },
     {
-        "estimated_date": "1 Nov 1848 to 30 Nov 1848",
+        "estimated_date": {
+            "from": "1 Nov 1848",
+            "to": "30 Nov 1848"
+        },
         "colony": "SA",
         "location": "Avenue Range station, near Guichen Bay",
         "language_group": "Wattatonga",
@@ -2355,7 +2826,10 @@
         "sources": "Foster et al 2001:78-80"
     },
     {
-        "estimated_date": "23 Apr 1849",
+        "estimated_date": {
+            "from": "23 Apr 1849",
+            "to": "23 Apr 1849"
+        },
         "colony": "NSW",
         "location": "Yamboucal Station, Maranoa Pastoral District",
         "language_group": "Mandandanji",
@@ -2370,7 +2844,10 @@
         "sources": "Collins 2002: 36-7."
     },
     {
-        "estimated_date": "1 May 1849 to 31 May 1849",
+        "estimated_date": {
+            "from": "1 May 1849",
+            "to": "31 May 1849"
+        },
         "colony": "NSW",
         "location": "Carbucky Station Maranoa Pastoral District ",
         "language_group": "Wiriyaraay or Gawambaraay",
@@ -2385,7 +2862,10 @@
         "sources": "Skinner 1975: 29-31; NSWLC V&P 1858 vol.2:880; Copland 1990: 111; Collins 2002: 63"
     },
     {
-        "estimated_date": "1 May 1849 to 31 May 1849",
+        "estimated_date": {
+            "from": "1 May 1849",
+            "to": "31 May 1849"
+        },
         "colony": "NSW",
         "location": "Severn (Dumaresq) River, Maranoa PD",
         "language_group": "Marbal or Guyambul",
@@ -2400,7 +2880,10 @@
         "sources": "Copland 1990: 110; Watts 1901: 20; Skinner 1975: 30-31"
     },
     {
-        "estimated_date": "1 May 1849",
+        "estimated_date": {
+            "from": "1 May 1849",
+            "to": "1 May 1849"
+        },
         "colony": "SA",
         "location": "Yeelanna, Eyre Peninsula ",
         "language_group": "",
@@ -2415,7 +2898,10 @@
         "sources": "Foster et al 2001: 83"
     },
     {
-        "estimated_date": "27 May 1849",
+        "estimated_date": {
+            "from": "27 May 1849",
+            "to": "27 May 1849"
+        },
         "colony": "SA",
         "location": "Waterloo Bay, Elliston, Eyre Peninsula",
         "language_group": "Wirangu",
@@ -2430,7 +2916,10 @@
         "sources": "Foster et.al. 2001:  44-73; Burgoyne 2000: 114; Gage, 2017"
     },
     {
-        "estimated_date": "1 Jun 1849 to 31 Jul 1849",
+        "estimated_date": {
+            "from": "1 Jun 1849",
+            "to": "31 Jul 1849"
+        },
         "colony": "NSW",
         "location": "\u2018The Cedars\u2019, Burnett River",
         "language_group": "Taribelang",
@@ -2445,7 +2934,10 @@
         "sources": "Laurie 1958:160; Lack 1967, np"
     },
     {
-        "estimated_date": "20 Jul 1849 to 31 Jul 1849",
+        "estimated_date": {
+            "from": "20 Jul 1849",
+            "to": "31 Jul 1849"
+        },
         "colony": "NSW",
         "location": "Talavera Station, Maranoa Pastoral District",
         "language_group": "Mandandanji or Bigambul or Wirray Wirray or Kogai",
@@ -2460,7 +2952,10 @@
         "sources": "Milliss 1980:42;  Collins 2002: 20, 42-3;"
     },
     {
-        "estimated_date": "1 Jan 1850 to 31 Dec 1850",
+        "estimated_date": {
+            "from": "1 Jan 1850",
+            "to": "31 Dec 1850"
+        },
         "colony": "PPD",
         "location": "The Slaughterhouse ",
         "language_group": "Tatungalung or Brabralung",
@@ -2475,7 +2970,10 @@
         "sources": "Gardner 2001: 76-82, 84-5; Broome 2005: 81."
     },
     {
-        "estimated_date": "1 Jan 1850 to 31 Dec 1850",
+        "estimated_date": {
+            "from": "1 Jan 1850",
+            "to": "31 Dec 1850"
+        },
         "colony": "PPD",
         "location": "Milly, Brodribb River",
         "language_group": " Krauatungulung",
@@ -2490,7 +2988,10 @@
         "sources": "Pepper and De Araugo 1985: 99-101; Gardner 2001: 82-5; Broome 2005: 81."
     },
     {
-        "estimated_date": "1 Jan 1850 to 12 Jan 1855",
+        "estimated_date": {
+            "from": "1 Jan 1850",
+            "to": "12 Jan 1855"
+        },
         "colony": "VIC",
         "location": "Murderers Flat",
         "language_group": "Dhauwurd wurrung",
@@ -2505,7 +3006,10 @@
         "sources": "Clark 1995; Donker 1985."
     },
     {
-        "estimated_date": "4 Mar 1850",
+        "estimated_date": {
+            "from": "4 Mar 1850",
+            "to": "4 Mar 1850"
+        },
         "colony": "NSW",
         "location": "Yuleba Creek, Maranoa PD",
         "language_group": "Mandandanji  or Barunggam",
@@ -2520,7 +3024,10 @@
         "sources": "<i>MBC</i> , April 6, 1850 -  <a href=\"http://nla.gov.au/nla.news-article3712394\">http://nla.gov.au/nla.news-article3712394</a> ;  <i>MMHRGA</i> , June 26 -  <a href=\"https://trove.nla.gov.au/newspaper/page/126527\">https://trove.nla.gov.au/newspaper/page/126527</a> , 1850; Collins 2002: 92-101; Copland et al. 2006: 62"
     },
     {
-        "estimated_date": "1 Oct 1850 to 31 Oct 1850",
+        "estimated_date": {
+            "from": "1 Oct 1850",
+            "to": "31 Oct 1850"
+        },
         "colony": "NSW",
         "location": "Ukabulla Station (1), Maranoa PD",
         "language_group": "Mandandanji or Barunggam",
@@ -2535,7 +3042,10 @@
         "sources": "Collins 2002: 203"
     },
     {
-        "estimated_date": "24 Dec 1851 to 3 Jan 1852",
+        "estimated_date": {
+            "from": "24 Dec 1851",
+            "to": "3 Jan 1852"
+        },
         "colony": "NSW",
         "location": "Fraser Island",
         "language_group": "[Butchulla] or a collection of clans that had sought refuge on the island",
@@ -2550,7 +3060,10 @@
         "sources": "Lauer 1977;  <i>SMH</i> , January 22, 1852 -  <a href=\"https://trove.nla.gov.au/newspaper/page/1509723\">https://trove.nla.gov.au/newspaper/page/1509723</a> ."
     },
     {
-        "estimated_date": "1 Mar 1852 to 31 Mar 1852",
+        "estimated_date": {
+            "from": "1 Mar 1852",
+            "to": "31 Mar 1852"
+        },
         "colony": "SA",
         "location": "Brachyna Gorge  Flinders Ranges ",
         "language_group": "Yura - Adnyamathanha",
@@ -2565,7 +3078,10 @@
         "sources": "Foster et al 2001: 95-105."
     },
     {
-        "estimated_date": "5 May 1852 to 8 May 1852",
+        "estimated_date": {
+            "from": "5 May 1852",
+            "to": "8 May 1852"
+        },
         "colony": "NSW",
         "location": "Yamboucal  Maranoa Pastoral District",
         "language_group": "Mandandanji",
@@ -2580,7 +3096,10 @@
         "sources": "Collins 2002: 164-179"
     },
     {
-        "estimated_date": "20 Sep 1852 to 30 Sep 1852",
+        "estimated_date": {
+            "from": "20 Sep 1852",
+            "to": "30 Sep 1852"
+        },
         "colony": "NSW",
         "location": "Moonie Station,  Maranoa Pastoral District",
         "language_group": "Bigambul (Balonne Aborigines)",
@@ -2595,7 +3114,10 @@
         "sources": "Collins 2002: 198-9"
     },
     {
-        "estimated_date": "1 Nov 1852 to 30 Nov 1852",
+        "estimated_date": {
+            "from": "1 Nov 1852",
+            "to": "30 Nov 1852"
+        },
         "colony": "NSW",
         "location": "Ukabulla Station (2), Maranoa PD",
         "language_group": "Mandandanji?  and Yiman people from the Dawson River",
@@ -2610,7 +3132,10 @@
         "sources": "Collins 2002: 203-5"
     },
     {
-        "estimated_date": "31 Dec 1853 to 1 Jan 1854",
+        "estimated_date": {
+            "from": "31 Dec 1853",
+            "to": "1 Jan 1854"
+        },
         "colony": "NSW",
         "location": "Angel's Beach, East Ballina, Richmond PD",
         "language_group": "Bundjalung",
@@ -2625,7 +3150,10 @@
         "sources": "Ainsworth 1987: 45-6"
     },
     {
-        "estimated_date": "3 Jun 1854 to 11 Aug 1854",
+        "estimated_date": {
+            "from": "3 Jun 1854",
+            "to": "11 Aug 1854"
+        },
         "colony": "SRC",
         "location": "Bootanell Swamp/Springs Greenough killings",
         "language_group": "Naaguja, Nanda ",
@@ -2640,7 +3168,10 @@
         "sources": "Pashley 2002; 53\u201356."
     },
     {
-        "estimated_date": "1 Nov 1854 to 30 Nov 1854",
+        "estimated_date": {
+            "from": "1 Nov 1854",
+            "to": "30 Nov 1854"
+        },
         "colony": "VIC",
         "location": "Apsley, Western Wimmera ",
         "language_group": "Jandwadjali",
@@ -2655,7 +3186,10 @@
         "sources": "James Dixon to S. Wilson 5 Dec 1854, "
     },
     {
-        "estimated_date": "1 Nov 1854",
+        "estimated_date": {
+            "from": "1 Nov 1854",
+            "to": "1 Nov 1854"
+        },
         "colony": "NSW",
         "location": "Maryborough, Burnett PD",
         "language_group": "Gubbi Gubbi? or Butchulla?",
@@ -2670,7 +3204,10 @@
         "sources": "Bottoms 2013: 86."
     },
     {
-        "estimated_date": "26 Dec 1855",
+        "estimated_date": {
+            "from": "26 Dec 1855",
+            "to": "26 Dec 1855"
+        },
         "colony": "NSW",
         "location": "Mt Larcom Station Leichhardt Pastoral  District",
         "language_group": "Gayiri",
@@ -2685,7 +3222,10 @@
         "sources": "CCL Wiseman  to CCCL 5 Jan 1856 SRNSW; Mc Donald 1981: 184-5."
     },
     {
-        "estimated_date": "1 Jan 1856 to 31 Dec 1856",
+        "estimated_date": {
+            "from": "1 Jan 1856",
+            "to": "31 Dec 1856"
+        },
         "colony": "NSW",
         "location": "Rain forest, Towel Creek,  Clarence PD  ",
         "language_group": "Dhanggati",
@@ -2700,7 +3240,10 @@
         "sources": "Blomfield 1981: 45-6"
     },
     {
-        "estimated_date": "27 Oct 1857",
+        "estimated_date": {
+            "from": "27 Oct 1857",
+            "to": "27 Oct 1857"
+        },
         "colony": "NSW",
         "location": "Hornet Bank Station, Upper Burnett Pastoral District ",
         "language_group": "Gungabula or Yiman",
@@ -2715,7 +3258,10 @@
         "sources": "<i>Age</i> ,  November 20,1857 -  <a href=\"https://trove.nla.gov.au/newspaper/page/18215858\">https://trove.nla.gov.au/newspaper/page/18215858</a> ;  <i>The Courier</i>  http://nla.gov.au/nla.news-article4602408; Reid 1980-1: 62-82; Reid 1981."
     },
     {
-        "estimated_date": "1 Nov 1857 to 30 Nov 1857",
+        "estimated_date": {
+            "from": "1 Nov 1857",
+            "to": "30 Nov 1857"
+        },
         "colony": "NSW",
         "location": "Hornet Bank aftermath",
         "language_group": "Yiman ",
@@ -2730,7 +3276,10 @@
         "sources": "George Lang to GS Lang, 31/03/1858, ML M-A63; Richards 2008:23"
     },
     {
-        "estimated_date": "15 Apr 1858",
+        "estimated_date": {
+            "from": "15 Apr 1858",
+            "to": "15 Apr 1858"
+        },
         "colony": "NSW",
         "location": "Whiteside Station, Moreton Bay PD",
         "language_group": "Buyibara or Yugarabul",
@@ -2745,7 +3294,10 @@
         "sources": "Wickham to Col Sec, April 21, 1858, 1/no.58/1492, QSA, Col.Sec: Letters received re Moreton Bay 1858, A2/39;  <i>MBC</i> , April 24, 1858 -  <a href=\"https://trove.nla.gov.au/newspaper/page/543482\">https://trove.nla.gov.au/newspaper/page/543482</a> ; Connors 2015: 83"
     },
     {
-        "estimated_date": "1 Jan 1859 to 24 Feb 1859",
+        "estimated_date": {
+            "from": "1 Jan 1859",
+            "to": "24 Feb 1859"
+        },
         "colony": "NSW",
         "location": "Brewarinna Fish Traps, Barwon River (1)",
         "language_group": "Pooncarie/Parkantyi",
@@ -2760,7 +3312,10 @@
         "sources": "Dargin 1976:54-5:  <i>Maryborough Chronicle: Wide Bay and Burnett Advertiser</i> , May 9, 1876, p.4  <a href=\"http://nla.gov.au/nla.news-article148509158\">http://nla.gov.au/nla.news-article148509158</a>"
     },
     {
-        "estimated_date": "1 Nov 1859 to 30 Nov 1859",
+        "estimated_date": {
+            "from": "1 Nov 1859",
+            "to": "30 Nov 1859"
+        },
         "colony": "QLD",
         "location": "Fitzroy River (2)",
         "language_group": "Karunbara or Rakiwara or Bayali",
@@ -2775,7 +3330,10 @@
         "sources": "QSA COL/A2/1860/79."
     },
     {
-        "estimated_date": "1 Dec 1859 to 31 Dec 1859",
+        "estimated_date": {
+            "from": "1 Dec 1859",
+            "to": "31 Dec 1859"
+        },
         "colony": "QLD",
         "location": "The 'Sapphire' massacre, Torres Strait ",
         "language_group": "Gudang? ",
@@ -2790,7 +3348,10 @@
         "sources": "<i>MBC</i>  March 27, 1860, p.2  <a href=\"http://nla.gov.au/nla.news-article3719258\">http://nla.gov.au/nla.news-article3719258</a> ; Mullins 1995:22: Bottoms 2013:126. "
     },
     {
-        "estimated_date": "1 Mar 1860 to 31 Mar 1860",
+        "estimated_date": {
+            "from": "1 Mar 1860",
+            "to": "31 Mar 1860"
+        },
         "colony": "QLD",
         "location": "Yuleba Creek. Bendemere Station",
         "language_group": "Waka Waka?",
@@ -2805,7 +3366,10 @@
         "sources": "QSA COL/A3/1860/381; Collins 2002:213"
     },
     {
-        "estimated_date": "6 Nov 1860",
+        "estimated_date": {
+            "from": "6 Nov 1860",
+            "to": "6 Nov 1860"
+        },
         "colony": "QLD",
         "location": "Fitzroy River, Rockhampton  ",
         "language_group": "Karunbara or Rakiwara or Bayali",
@@ -2820,7 +3384,10 @@
         "sources": "QSA COL /A2/1860.79"
     },
     {
-        "estimated_date": "1 Jan 1861 to 31 Dec 1861",
+        "estimated_date": {
+            "from": "1 Jan 1861",
+            "to": "31 Dec 1861"
+        },
         "colony": "NSW",
         "location": "Brewarinna Fish Traps, Barwon River (2)",
         "language_group": "Pooncarie/Parkantyi",
@@ -2835,7 +3402,10 @@
         "sources": "Dargin 1976: 57"
     },
     {
-        "estimated_date": "1 Jan 1861 to 31 Jan 1861",
+        "estimated_date": {
+            "from": "1 Jan 1861",
+            "to": "31 Jan 1861"
+        },
         "colony": "QLD",
         "location": "Hardie's Station massacre, Dugandan Scrub",
         "language_group": "",
@@ -2850,7 +3420,10 @@
         "sources": "QP V&PLA 1861; Bottoms 2013:23-4; Rosser 1990:59; "
     },
     {
-        "estimated_date": "1 Jan 1861 to 31 Dec 1861",
+        "estimated_date": {
+            "from": "1 Jan 1861",
+            "to": "31 Dec 1861"
+        },
         "colony": "QLD",
         "location": "Manumbar Station,  Burnett River region ",
         "language_group": "Waka Waka ",
@@ -2865,7 +3438,10 @@
         "sources": "QPV&PLA 1861; Bottoms 2013:6, 51"
     },
     {
-        "estimated_date": "17 Oct 1861",
+        "estimated_date": {
+            "from": "17 Oct 1861",
+            "to": "17 Oct 1861"
+        },
         "colony": "QLD",
         "location": "Cullin la Ringo",
         "language_group": "Gayiri",
@@ -2880,7 +3456,10 @@
         "sources": "<i>SMH</i>  December 10  <a href=\"https://trove.nla.gov.au/newspaper/page/1484046\">https://trove.nla.gov.au/newspaper/page/1484046</a> , and 11 -  <a href=\"https://trove.nla.gov.au/newspaper/page/1484054\">https://trove.nla.gov.au/newspaper/page/1484054</a> , and 12 - <a href=\"http://nla.gov.au/nla.news-page1484062\">http://nla.gov.au/nla.news-page1484062</a>  1861; Reid 1980-1:62-82; Perrin 1998: 84-104."
     },
     {
-        "estimated_date": "19 Oct 1861",
+        "estimated_date": {
+            "from": "19 Oct 1861",
+            "to": "19 Oct 1861"
+        },
         "colony": "QLD",
         "location": "Upper Maranoa",
         "language_group": "Gungabula",
@@ -2895,7 +3474,10 @@
         "sources": "Collins 2002:213."
     },
     {
-        "estimated_date": "25 Oct 1861",
+        "estimated_date": {
+            "from": "25 Oct 1861",
+            "to": "25 Oct 1861"
+        },
         "colony": "QLD",
         "location": "Nogoa River",
         "language_group": "Gayiri",
@@ -2910,7 +3492,10 @@
         "sources": "Reid 1980-1:62-82; Bowen to Newcastle, 16 Dec.1861, QSAGov/23"
     },
     {
-        "estimated_date": "26 Nov 1861",
+        "estimated_date": {
+            "from": "26 Nov 1861",
+            "to": "26 Nov 1861"
+        },
         "colony": "QLD",
         "location": "Expedition Range",
         "language_group": "Mandalgu",
@@ -2925,7 +3510,10 @@
         "sources": "QSA COL/A26/1862/823;  <i>SMH</i>  December 11, 1861 -  <a href=\"https://trove.nla.gov.au/newspaper/page/1484054\">https://trove.nla.gov.au/newspaper/page/1484054</a>"
     },
     {
-        "estimated_date": "10 Dec 1861",
+        "estimated_date": {
+            "from": "10 Dec 1861",
+            "to": "10 Dec 1861"
+        },
         "colony": "QLD",
         "location": "Dawson River",
         "language_group": "Mandalgu",
@@ -2940,7 +3528,10 @@
         "sources": "QSA COL/A26/1862/823"
     },
     {
-        "estimated_date": "1 Jan 1862 to 31 Dec 1862",
+        "estimated_date": {
+            "from": "1 Jan 1862",
+            "to": "31 Dec 1862"
+        },
         "colony": "QLD",
         "location": "Planet Creek massacre, Albinia Downs station, 100 kms south east of Springsure",
         "language_group": "Gayiri",
@@ -2955,7 +3546,10 @@
         "sources": "Bottoms 2013:49"
     },
     {
-        "estimated_date": "1 Feb 1862 to 30 Apr 1862",
+        "estimated_date": {
+            "from": "1 Feb 1862",
+            "to": "30 Apr 1862"
+        },
         "colony": "QLD",
         "location": "Murdering Creek, Lake Weyba, Sunshine Coast ",
         "language_group": "Gubbi Gubbi ",
@@ -2970,7 +3564,10 @@
         "sources": "Gibbons 2014:142-7"
     },
     {
-        "estimated_date": "1 Aug 1862 to 31 Aug 1862",
+        "estimated_date": {
+            "from": "1 Aug 1862",
+            "to": "31 Aug 1862"
+        },
         "colony": "QLD",
         "location": "Caboolture River",
         "language_group": "Buyibara",
@@ -2985,7 +3582,10 @@
         "sources": "<i>Courier</i>  October 4, 1862 -  <a href=\"https://trove.nla.gov.au/newspaper/page/47987\">https://trove.nla.gov.au/newspaper/page/47987</a>"
     },
     {
-        "estimated_date": "1 Sep 1862 to 30 Sep 1862",
+        "estimated_date": {
+            "from": "1 Sep 1862",
+            "to": "30 Sep 1862"
+        },
         "colony": "QLD",
         "location": "Pigeon Creek station, tributary of the Warrego River",
         "language_group": "",
@@ -3000,7 +3600,10 @@
         "sources": "Chambers 1988: 45-60"
     },
     {
-        "estimated_date": "30 Oct 1863",
+        "estimated_date": {
+            "from": "30 Oct 1863",
+            "to": "30 Oct 1863"
+        },
         "colony": "QLD",
         "location": "Woolgar River",
         "language_group": "Ngawun",
@@ -3015,7 +3618,10 @@
         "sources": "Walker, 1863"
     },
     {
-        "estimated_date": "1 Jan 1865 to 31 Dec 1865",
+        "estimated_date": {
+            "from": "1 Jan 1865",
+            "to": "31 Dec 1865"
+        },
         "colony": "QLD",
         "location": "Thouringowa Waterhole, Bulloo River, Bullawarra, Thargomindah",
         "language_group": "Kullilla",
@@ -3030,7 +3636,10 @@
         "sources": "Bottoms 2013:63-4; McKellar 1984: 57"
     },
     {
-        "estimated_date": "4 Apr 1865 to 6 Apr 1865",
+        "estimated_date": {
+            "from": "4 Apr 1865",
+            "to": "6 Apr 1865"
+        },
         "colony": "WA",
         "location": "La Grange ",
         "language_group": "Yawru, Karajarri ",
@@ -3045,7 +3654,10 @@
         "sources": "Scates 1989: 21-31; Forrest 1996:15-16.  <i> Australian News for Home Readers</i> , 25 August 1865:1 & 9."
     },
     {
-        "estimated_date": "21 Jun 1866",
+        "estimated_date": {
+            "from": "21 Jun 1866",
+            "to": "21 Jun 1866"
+        },
         "colony": "QLD",
         "location": "Glenmore Downs ",
         "language_group": "Darumbal",
@@ -3060,7 +3672,10 @@
         "sources": "<i>QVP</i>  1867"
     },
     {
-        "estimated_date": "1 Oct 1866 to 31 Oct 1866",
+        "estimated_date": {
+            "from": "1 Oct 1866",
+            "to": "31 Oct 1866"
+        },
         "colony": "QLD",
         "location": "Belyando River",
         "language_group": "",
@@ -3075,7 +3690,10 @@
         "sources": "<i>Queenslander</i> , November 3, 1866 -  <a href=\"https://trove.nla.gov.au/newspaper/page/2458734\">https://trove.nla.gov.au/newspaper/page/2458734</a>  "
     },
     {
-        "estimated_date": "1 Jan 1867 to 31 Dec 1867",
+        "estimated_date": {
+            "from": "1 Jan 1867",
+            "to": "31 Dec 1867"
+        },
         "colony": "QLD",
         "location": "Morinish, near Rockhampton",
         "language_group": "",
@@ -3090,7 +3708,10 @@
         "sources": "Richards 2008:48."
     },
     {
-        "estimated_date": "1 Jan 1867 to 31 Dec 1867",
+        "estimated_date": {
+            "from": "1 Jan 1867",
+            "to": "31 Dec 1867"
+        },
         "colony": "QLD",
         "location": "Turtle Head Island, 10 kms south of Somerset, Cape York ",
         "language_group": "Yadhaigana",
@@ -3105,7 +3726,10 @@
         "sources": "Sharp 1992:41; Bottoms 2013: 128."
     },
     {
-        "estimated_date": "1 Apr 1868 to 31 May 1868",
+        "estimated_date": {
+            "from": "1 Apr 1868",
+            "to": "31 May 1868"
+        },
         "colony": "QLD",
         "location": "Burketown ",
         "language_group": "",
@@ -3120,7 +3744,10 @@
         "sources": "Brisbane Courier, 9 June 1868:3; Ashwin 2002: 158; Roberts 2005:12"
     },
     {
-        "estimated_date": "1 Apr 1868 to 31 May 1868",
+        "estimated_date": {
+            "from": "1 Apr 1868",
+            "to": "31 May 1868"
+        },
         "colony": "QLD",
         "location": "Norman River, Gulf Country",
         "language_group": "",
@@ -3135,7 +3762,10 @@
         "sources": "Brisbane Courier, 9 June 1868:3: Roberts 2005:12."
     },
     {
-        "estimated_date": "1 May 1868 to 15 May 1868",
+        "estimated_date": {
+            "from": "1 May 1868",
+            "to": "15 May 1868"
+        },
         "colony": "WA",
         "location": "Flying Foam Murajuga, Burrup Peninsula.",
         "language_group": "Jaburara (or Yaburrara, Yapurarra)",
@@ -3150,7 +3780,10 @@
         "sources": "<i>The Inquirer and Commercial News</i> , 1 April 1868; 3,  <a href=\"https://trove.nla.gov.au/newspaper/page/6579813\">https://trove.nla.gov.au/newspaper/page/6579813</a> ;  Gara, 'The Flying foam Massacre: Comprehensive summary Of Flying Foam Articles Unpublished: passim; Dyson, 2002;  Owen, 2016: 135, 144, 147.\r\n"
     },
     {
-        "estimated_date": "1 Jun 1869 to 30 Jun 1869",
+        "estimated_date": {
+            "from": "1 Jun 1869",
+            "to": "30 Jun 1869"
+        },
         "colony": "QLD",
         "location": "Torres Strait - Pabaju Albany Island",
         "language_group": "Kawalgaw Ya ",
@@ -3165,7 +3798,10 @@
         "sources": "Bottoms 2013:127-8; Sharp 1992:38"
     },
     {
-        "estimated_date": "1 Jun 1869 to 30 Jun 1869",
+        "estimated_date": {
+            "from": "1 Jun 1869",
+            "to": "30 Jun 1869"
+        },
         "colony": "QLD",
         "location": "The 'Sperwer' massacre,  Prince of Wales Is.Torres Strait ",
         "language_group": "",
@@ -3180,7 +3816,10 @@
         "sources": "<i>SMH</i>  December 3, 1869: 5  <a href=\"http://nla.gov.au/nla.news-article13196353\">http://nla.gov.au/nla.news-article13196353</a> ;  <i>Inquirer and Commercial News</i> , (Perth WA), January 5, 1870: 3  <a href=\"http://nla.gov.au/nla.news-article66033796\">http://nla.gov.au/nla.news-article66033796</a> ."
     },
     {
-        "estimated_date": "6 Jul 1869 to 31 Jul 1869",
+        "estimated_date": {
+            "from": "6 Jul 1869",
+            "to": "31 Jul 1869"
+        },
         "colony": "WA",
         "location": "Minderoo, ",
         "language_group": "Thalanyji",
@@ -3195,7 +3834,10 @@
         "sources": "Sholl to Colonial Secretary 12 June 1869, CSR 647-66 SRWA; Forrest 1996;  Gifford 2018:89-94;  <i>The Sunday Times</i> , 20 October 1918: 8  <a href=\"https://trove.nla.gov.au/newspaper/article/57996780\">https://trove.nla.gov.au/newspaper/article/57996780</a>"
     },
     {
-        "estimated_date": "1 Jan 1870 to 31 Dec 1870",
+        "estimated_date": {
+            "from": "1 Jan 1870",
+            "to": "31 Dec 1870"
+        },
         "colony": "NSW",
         "location": "Hospital Creek, Brewarinna",
         "language_group": "Pooncarie/Parkantyi",
@@ -3210,7 +3852,10 @@
         "sources": "Dargin 1976:59"
     },
     {
-        "estimated_date": "20 Jan 1870",
+        "estimated_date": {
+            "from": "20 Jan 1870",
+            "to": "20 Jan 1870"
+        },
         "colony": "QLD",
         "location": "Murray River",
         "language_group": "Djira",
@@ -3225,7 +3870,10 @@
         "sources": "QSA COL/A185/1873/(993) 99"
     },
     {
-        "estimated_date": "1 Jan 1872 to 31 Dec 1872",
+        "estimated_date": {
+            "from": "1 Jan 1872",
+            "to": "31 Dec 1872"
+        },
         "colony": "QLD",
         "location": "Blencoe Falls, Kirrama, Valley of Lagoons Station",
         "language_group": "",
@@ -3240,7 +3888,10 @@
         "sources": "<i>Brisbane Courier</i> , 10 August 1872  <a href=\"http://nla.gov.au/nla.news-article1293153\">http://nla.gov.au/nla.news-article1293153</a> ; Bottoms 2013:137"
     },
     {
-        "estimated_date": "1 Jan 1872 to 31 Dec 1872",
+        "estimated_date": {
+            "from": "1 Jan 1872",
+            "to": "31 Dec 1872"
+        },
         "colony": "QLD",
         "location": "Wombunderry Waterhole, Cooper Creek ",
         "language_group": "Kungkari",
@@ -3255,7 +3906,10 @@
         "sources": "Bottoms 2013:66-7; Durack 2008:139"
     },
     {
-        "estimated_date": "1 Mar 1872 to 10 Mar 1872",
+        "estimated_date": {
+            "from": "1 Mar 1872",
+            "to": "10 Mar 1872"
+        },
         "colony": "QLD",
         "location": "The 'Maria' massacre, Mission Beach ",
         "language_group": "Djurun ",
@@ -3270,7 +3924,10 @@
         "sources": "Forster 1872:13-14; NSW V&P 1872"
     },
     {
-        "estimated_date": "12 Mar 1872 to 31 Mar 1872",
+        "estimated_date": {
+            "from": "12 Mar 1872",
+            "to": "31 Mar 1872"
+        },
         "colony": "QLD",
         "location": "Coast opposite Dunk Is. ",
         "language_group": "Djurun",
@@ -3285,7 +3942,10 @@
         "sources": "Bottoms 2013:134-6;"
     },
     {
-        "estimated_date": "15 Mar 1872 to 31 Mar 1872",
+        "estimated_date": {
+            "from": "15 Mar 1872",
+            "to": "31 Mar 1872"
+        },
         "colony": "QLD",
         "location": "Tam O'Shanter Point, Mission Beach",
         "language_group": "Djurun ",
@@ -3300,7 +3960,10 @@
         "sources": "Bottoms 2013:134-6;"
     },
     {
-        "estimated_date": "1 Sep 1872 to 30 Sep 1872",
+        "estimated_date": {
+            "from": "1 Sep 1872",
+            "to": "30 Sep 1872"
+        },
         "colony": "SA",
         "location": "Calico Creek ",
         "language_group": "Unclear",
@@ -3315,7 +3978,10 @@
         "sources": "<i>Brisbane Courier</i> , October 27 1874: 3  <a href=\"http://nla.gov.au/nla.news-article1390427\">http://nla.gov.au/nla.news-article1390427</a> ; Dymock 1991: 10-11; Roberts 2009; Morrison  <a href=\"//www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a>"
     },
     {
-        "estimated_date": "5 Nov 1873",
+        "estimated_date": {
+            "from": "5 Nov 1873",
+            "to": "5 Nov 1873"
+        },
         "colony": "QLD",
         "location": "Battle Camp, Normanby River",
         "language_group": "Gugu-Warra",
@@ -3330,7 +3996,10 @@
         "sources": "<i>Telegraph</i>  (Brisbane)  January 22,1874  <a href=\"http://nla.gov.au/nla.news-article169519491\">http://nla.gov.au/nla.news-article169519491</a> ;  <i>Queenslander</i> , June 19, 1880  <a href=\"http://nla.gov.au/nla.news-article20333682\">http://nla.gov.au/nla.news-article20333682</a> ; Jack,Vol.2 1922:421-2; Shay 2012; Bottoms 2013:117-19"
     },
     {
-        "estimated_date": "22 Feb 1874 to 10 Apr 1874",
+        "estimated_date": {
+            "from": "22 Feb 1874",
+            "to": "10 Apr 1874"
+        },
         "colony": "SA",
         "location": "Barrow Creek ",
         "language_group": "Kaititja",
@@ -3345,7 +4014,10 @@
         "sources": "BCHAR 1995;  <i>South Australian Register</i> , June 25 1874  <a href=\"http://nla.gov.au/nla.news-article39819933\">http://nla.gov.au/nla.news-article39819933</a> ;  <i>The Stringer</i>   <a href=\"http://thestringer.com.au/the-killing-times-2214#.Wt6FTMiFPIV\"> http://thestringer.com.au/the-killing-times-2214#.Wt6FTMiFPIV</a> ; Nettelbeck and Foster 2007: 6-7;  <i>Centralian Advocate</i> , September 5, 2017  <a href=\"https://www.territorystories.nt.gov.au/jspui/bitstream/10070/272302/14/Centralian%20Advocate_20170905_page14_Centralian_News_14.PDF\">https://www.territorystories.nt.gov.au/jspui/bitstream/10070/272302/14/Centralian%20Advocate_20170905_page14_Centralian_News_14.PDF</a> ; Bell 1983:53; Wilson 2000: 270-71; Reid 1990: 62-65; Mulvaney 2003:44-51; Hartwig 1965; 265-276; Kimber 1991, p6."
     },
     {
-        "estimated_date": "1 Jan 1875 to 31 Dec 1875",
+        "estimated_date": {
+            "from": "1 Jan 1875",
+            "to": "31 Dec 1875"
+        },
         "colony": "QLD",
         "location": "Thundapurty Waterhole near Durrie, SW Queensland",
         "language_group": "Karuwali ",
@@ -3360,7 +4032,10 @@
         "sources": "Watson 1998:98: Bottoms 2013:71. "
     },
     {
-        "estimated_date": "1 Jan 1875 to 31 Dec 1875",
+        "estimated_date": {
+            "from": "1 Jan 1875",
+            "to": "31 Dec 1875"
+        },
         "colony": "SA",
         "location": "Tempe Downs",
         "language_group": "Matuntara & Irbmangkara",
@@ -3375,7 +4050,10 @@
         "sources": "Nettelbeck & Foster 2007: 8."
     },
     {
-        "estimated_date": "23 Jul 1875",
+        "estimated_date": {
+            "from": "23 Jul 1875",
+            "to": "23 Jul 1875"
+        },
         "colony": "SA",
         "location": "Mt McMinn, Northern Territory (2)",
         "language_group": " Mangarrayi",
@@ -3390,7 +4068,10 @@
         "sources": "Reid, 1990: xi, 66-67;  <i>NTTG</i> , July 17, 1875: 1 <a href=\"http://nla.gov.au/nla.news-article3144292\">http://nla.gov.au/nla.news-article3144292</a> ; August 14, 1875: 1  <a href=\"http://nla.gov.au/nla.news-article3144352\">http://nla.gov.au/nla.news-article3144352</a> ;  <i>NTTG</i> ,September 18,1875,  <a href=\"http://nla.gov.au/nla.news-article3144448\">http://nla.gov.au/nla.news-article3144448</a>  1875: 2; December 4 1875: 2  <a href=\"http://nla.gov.au/nla.news-article3144612\">http://nla.gov.au/nla.news-article3144612</a> ; December 25, 1875: 2  <a href=\"http://nla.gov.au/nla.news-article3144666\">http://nla.gov.au/nla.news-article3144666</a> ; Wilson, 2008: 221-222; Roberts, 1999; Roper River Police Station Heritage Assessment Report, 2015: 9-11; Roper Bar Land Claim Report, 1982: 3; Austin 1992, HSNT: 15-16.\r\n"
     },
     {
-        "estimated_date": "5 Aug 1875 to 15 Aug 1875",
+        "estimated_date": {
+            "from": "5 Aug 1875",
+            "to": "15 Aug 1875"
+        },
         "colony": "SA",
         "location": "Crescent Lagoon, Northern Territory",
         "language_group": "Mangarrayi",
@@ -3405,7 +4086,10 @@
         "sources": "<i>NTTG</i> ,September 18,1875,  <a href=\"http://nla.gov.au/nla.news-article3144448\">http://nla.gov.au/nla.news-article3144448</a>  1875, p 2; December 4 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144612\">http://nla.gov.au/nla.news-article3144612</a> ; December 25, 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144666\">http://nla.gov.au/nla.news-article3144666</a> ; Wilson, 2008, pp 221-222; Roper River Police Station Heritage Assessment Report, 2015:9-11; Roper Bar Land Claim Report, 1982: 3; Austin 1992 HSNT:15-16; Roberts 2005: 116-122.\r\n"
     },
     {
-        "estimated_date": "8 Aug 1875 to 9 Aug 1875",
+        "estimated_date": {
+            "from": "8 Aug 1875",
+            "to": "9 Aug 1875"
+        },
         "colony": "SA",
         "location": "Blue Mud Bay - Arnhem Land",
         "language_group": "Yolngu, Wubuy",
@@ -3420,7 +4104,10 @@
         "sources": "<i>NTTG</i>  October 30 1875  <a href=\"http://nla.gov.au/nla.news-article3144523\">http://nla.gov.au/nla.news-article3144523</a> ; Reid 1990: 69; Macknight 1981."
     },
     {
-        "estimated_date": "18 Aug 1875 to 20 Aug 1875",
+        "estimated_date": {
+            "from": "18 Aug 1875",
+            "to": "20 Aug 1875"
+        },
         "colony": "SA",
         "location": "Harris Lagoon, Northern Territory",
         "language_group": "Mangarrayi",
@@ -3435,7 +4122,10 @@
         "sources": "<i>NTTG</i> ,September 18,1875,  <a href=\"http://nla.gov.au/nla.news-article3144448\">http://nla.gov.au/nla.news-article3144448</a>  1875, p 2; December 4 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144612\">http://nla.gov.au/nla.news-article3144612</a> ; December 25, 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144666\">http://nla.gov.au/nla.news-article3144666</a> ; Wilson, 2008, pp 221-222; Roberts,2005: 115-124; 1999; Roper River Police Station Heritage Assessment Report 2015: 9-11; Roper Bar Land Claim Report, 1982:3; Austin 1992 HSNT:15-16.\r\n"
     },
     {
-        "estimated_date": "29 Aug 1875",
+        "estimated_date": {
+            "from": "29 Aug 1875",
+            "to": "29 Aug 1875"
+        },
         "colony": "SA",
         "location": "Calder's Range, Northern Territory",
         "language_group": "Mangarrayi",
@@ -3450,7 +4140,10 @@
         "sources": "<i>NTTG</i> ,September 18,1875,  <a href=\"http://nla.gov.au/nla.news-article3144448\">http://nla.gov.au/nla.news-article3144448</a>  1875, p 2; December 4 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144612\">http://nla.gov.au/nla.news-article3144612</a> ; December 25, 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144666\">http://nla.gov.au/nla.news-article3144666</a> ; Wilson, 2008, pp 221-222; Roberts 2009: 115-124; Roper River Police Station Heritage Assessment Report 2015: 9-11; Roper Bar Land Claim Report 1982:3; Austin 1992 HSNT: 15-16.\r\n"
     },
     {
-        "estimated_date": "2 Sep 1875",
+        "estimated_date": {
+            "from": "2 Sep 1875",
+            "to": "2 Sep 1875"
+        },
         "colony": "SA",
         "location": "Mole Hill ",
         "language_group": "Mangarrayi",
@@ -3465,7 +4158,10 @@
         "sources": "<i>NTTG</i> ,September 18,1875,  <a href=\"http://nla.gov.au/nla.news-article3144448\">http://nla.gov.au/nla.news-article3144448</a>  1875, p 2; December 4 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144612\">http://nla.gov.au/nla.news-article3144612</a> ; December 25, 1875, p 2  <a href=\"http://nla.gov.au/nla.news-article3144666\">http://nla.gov.au/nla.news-article3144666</a> ; Wilson, 2008, pp 221-222; Roberts, 1999; Roper River Police Station Heritage Assessment Report, 2015,  pp 9-11; Roper Bar Land Claim Report, 1982, p 3; Austin 1992 HSNT, p15-16.\r\n"
     },
     {
-        "estimated_date": "1 Jan 1878 to 31 Jan 1878",
+        "estimated_date": {
+            "from": "1 Jan 1878",
+            "to": "31 Jan 1878"
+        },
         "colony": "SA",
         "location": "The Shackle, Granite Crossing",
         "language_group": "",
@@ -3480,7 +4176,10 @@
         "sources": "SHAR 1994;  Roberts 2009; Reid 1990: 70; Morrison  <a href=\"//www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a> ;  <i>NTTG</i> , January 19  <a href=\"http://nla.gov.au/nla.news-article3146552\">http://nla.gov.au/nla.news-article3146552</a> , 26  <a href=\"http://nla.gov.au/nla.news-article3146569\">http://nla.gov.au/nla.news-article3146569</a> , February 2  <a href=\"http://nla.gov.au/nla.news-article3146587\">http://nla.gov.au/nla.news-article3146587</a> , 9  <a href=\"http://nla.gov.au/nla.news-article3146598\">http://nla.gov.au/nla.news-article3146598</a> , 23  <a href=\"http://nla.gov.au/nla.news-article3146639\">http://nla.gov.au/nla.news-article3146639</a> , March 9  <a href=\"http://nla.gov.au/nla.news-article3146690\">http://nla.gov.au/nla.news-article3146690</a> ;  <i>SA Register</i> , 28,  <a href=\"http://nla.gov.au/nla.news-article40780933\">http://nla.gov.au/nla.news-article40780933</a> ; 30, January,  <a href=\"http://nla.gov.au/nla.news-article40791443\">http://nla.gov.au/nla.news-article40791443</a>  1878. Kelsey 1975: 64-65; Austin 1992: 16."
     },
     {
-        "estimated_date": "1 Jan 1879 to 31 Dec 1879",
+        "estimated_date": {
+            "from": "1 Jan 1879",
+            "to": "31 Dec 1879"
+        },
         "colony": "QLD",
         "location": "Indian Head, North Shore, Cooktown",
         "language_group": "Guugu Yimithirr",
@@ -3495,7 +4194,10 @@
         "sources": "Bottoms 2013:121-2"
     },
     {
-        "estimated_date": "1 Jan 1879 to 31 Jan 1879",
+        "estimated_date": {
+            "from": "1 Jan 1879",
+            "to": "31 Jan 1879"
+        },
         "colony": "QLD",
         "location": "Selwyn Ranges",
         "language_group": "Kalkadoons",
@@ -3510,7 +4212,10 @@
         "sources": "Armstrong 1981:127-8; Bottoms 2013: 162-3; Davidson et.al, 2004:16."
     },
     {
-        "estimated_date": "1 Jan 1880 to 31 Dec 1899",
+        "estimated_date": {
+            "from": "1 Jan 1880",
+            "to": "31 Dec 1899"
+        },
         "colony": "WA",
         "location": "Panton River - East Kimberley ",
         "language_group": "Worla, Kitja",
@@ -3525,7 +4230,10 @@
         "sources": "Ross and Bray, 1989: 9."
     },
     {
-        "estimated_date": "1 Jan 1880 to 31 Dec 1880",
+        "estimated_date": {
+            "from": "1 Jan 1880",
+            "to": "31 Dec 1880"
+        },
         "colony": "QLD",
         "location": "Rifle Creek, Mt Carbine",
         "language_group": "Djabugay",
@@ -3540,7 +4248,10 @@
         "sources": "Bottoms 2013:151"
     },
     {
-        "estimated_date": "1 Oct 1880 to 30 Nov 1880",
+        "estimated_date": {
+            "from": "1 Oct 1880",
+            "to": "30 Nov 1880"
+        },
         "colony": "WA",
         "location": "Ravensthorpe (Conconurup/Kukenarup/Carracarrup)",
         "language_group": "Minang Noongar",
@@ -3555,7 +4266,10 @@
         "sources": "Brockway 1998:70;  Landgrafft  <a href=\"https://www.abc.net.au/news/rural/2015-05-22/kukenarup-memorial-opened-in-ravensthorpe/6490332\">https://www.abc.net.au/news/rural/2015-05-22/kukenarup-memorial-opened-in-ravensthorpe/6490332</a> ;  <i>Western Mail</i> , 17 October 1935:8  <a href=\"https://trove.nla.gov.au/newspaper/article/38944566\">https://trove.nla.gov.au/newspaper/article/38944566</a>"
     },
     {
-        "estimated_date": "1 Jan 1884 to 31 Dec 1884",
+        "estimated_date": {
+            "from": "1 Jan 1884",
+            "to": "31 Dec 1884"
+        },
         "colony": "QLD",
         "location": "Allumbah, (Yungaburra) Skull Pocket, Mulgrave River ",
         "language_group": "Yidinydi",
@@ -3570,7 +4284,10 @@
         "sources": "Bottoms 2013:147-8"
     },
     {
-        "estimated_date": "7 Aug 1884 to 7 Sep 1884",
+        "estimated_date": {
+            "from": "7 Aug 1884",
+            "to": "7 Sep 1884"
+        },
         "colony": "SA",
         "location": "Anna's Reservoir",
         "language_group": "Anmatjere",
@@ -3585,7 +4302,10 @@
         "sources": "Traynor 2016; 120-121; Kimber  <a href=\"http://www.alicespringsnews.com.au/1032.html\">http://www.alicespringsnews.com.au/1032.html</a> ; Nettlebeck & Foster 2007: 16; Wilson 2000: 272; Morrison  <a href=\"//www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a> ;  <i>Adelaide Observer</i> , 20 Sept 1884 <a href=\"http://nla.gov.au/nla.news-article160101265\">http://nla.gov.au/nla.news-article160101265</a> ;  <i>NTTG</i> , 25 Oct 1884  <a href=\"http://nla.gov.au/nla.news-article3156621\">http://nla.gov.au/nla.news-article3156621</a> ; Perkins C 1975: 19."
     },
     {
-        "estimated_date": "1 Sep 1884 to 30 Sep 1884",
+        "estimated_date": {
+            "from": "1 Sep 1884",
+            "to": "30 Sep 1884"
+        },
         "colony": "QLD",
         "location": "Battle Mountain, Cloncurry ",
         "language_group": "Kalkadoons ",
@@ -3600,7 +4320,10 @@
         "sources": "Bottoms 2013: 164-6."
     },
     {
-        "estimated_date": "2 Sep 1884",
+        "estimated_date": {
+            "from": "2 Sep 1884",
+            "to": "2 Sep 1884"
+        },
         "colony": "SA",
         "location": "Daly River and Mary River",
         "language_group": "Woolwonga",
@@ -3615,7 +4338,10 @@
         "sources": "Nettelbeck 2004: 19; Wilson 2000: 271; Morrison  <a href=\"http://www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a> ;  <i>Evening Journal</i>  , June 4 1885  <a href=\"http://nla.gov.au/nla.news-article198397078\">http://nla.gov.au/nla.news-article198397078</a> ;  <i>SA Register</i> , June 11 1885  <a href=\"http://nla.gov.au/nla.news-article44534459\">http://nla.gov.au/nla.news-article44534459</a> ; Roberts 2009;  North Australian, November 27 1885  <a href=\"http://nla.gov.au/nla.news-article47995004\">http://nla.gov.au/nla.news-article47995004</a> ; Markus 1974: 12-34; 'Report on the pursuit of the Daly River murderers', SAPP, No.170, 1885."
     },
     {
-        "estimated_date": "27 Sep 1884",
+        "estimated_date": {
+            "from": "27 Sep 1884",
+            "to": "27 Sep 1884"
+        },
         "colony": "SA",
         "location": "Argument Flat  NT",
         "language_group": "",
@@ -3630,7 +4356,10 @@
         "sources": "Austin (1992), p 25;  <i>SA Register</i> , 12 Feb 1886, p6  <a href=\"http://nla.gov.au/nla.news-article50184608\">http://nla.gov.au/nla.news-article50184608</a> ;  <i>NTTG</i>  4 Oct 1884, p2  <a href=\"http://nla.gov.au/nla.news-article3156540\">http://nla.gov.au/nla.news-article3156540</a> ."
     },
     {
-        "estimated_date": "1 Oct 1884 to 31 Oct 1884",
+        "estimated_date": {
+            "from": "1 Oct 1884",
+            "to": "31 Oct 1884"
+        },
         "colony": "QLD",
         "location": "Irvinebank, inland from Cairns ",
         "language_group": "",
@@ -3645,7 +4374,10 @@
         "sources": "Richards 2008:33;  <i>Brisbane Courier</i> , November 14, 1884  <a href=\"http://nla.gov.au/nla.news-article3436110\">http://nla.gov.au/nla.news-article3436110</a> ;Genever 1996:16."
     },
     {
-        "estimated_date": "1 Jan 1885 to 31 Dec 1885",
+        "estimated_date": {
+            "from": "1 Jan 1885",
+            "to": "31 Dec 1885"
+        },
         "colony": "SA",
         "location": "Florida Station Poisoning",
         "language_group": "Yolngu",
@@ -3660,7 +4392,10 @@
         "sources": "Trudgen, Richard, 2000, pp 18-20; Baker, Gwenda 2018, p 8."
     },
     {
-        "estimated_date": "11 Dec 1885 to 31 Dec 1885",
+        "estimated_date": {
+            "from": "11 Dec 1885",
+            "to": "31 Dec 1885"
+        },
         "colony": "SA",
         "location": "Bradshaw Poisoning",
         "language_group": "Wardaman",
@@ -3675,7 +4410,10 @@
         "sources": ""
     },
     {
-        "estimated_date": "1 Jul 1886 to 1 Sep 1886",
+        "estimated_date": {
+            "from": "1 Jul 1886",
+            "to": "1 Sep 1886"
+        },
         "colony": "WA",
         "location": "Spear Gully'  Halls Creek ",
         "language_group": "Jaru, Kitja ",
@@ -3690,7 +4428,10 @@
         "sources": "Clement 2000: 6;  Clement and  Bridge, 1991: xiii.; Kimberley Languages Resource Centre,1996:37; WAPD, Report by Sergt Troy from R. McPhee regarding death of Fred Marriot, Derby Police Station, 3 July 1886, SROWA, AN 5, Acc.738/3; . Lamond 1971: 29-30; Owen, 2003 129-156; Owen, 2016: 225-231."
     },
     {
-        "estimated_date": "17 Nov 1886 to 11 Jan 1887",
+        "estimated_date": {
+            "from": "17 Nov 1886",
+            "to": "11 Jan 1887"
+        },
         "colony": "WA",
         "location": "Ord River Station - East Kimberley  ",
         "language_group": "Worla, Jaru, Kitja",
@@ -3705,7 +4446,10 @@
         "sources": "WAPD, East Kimberley Wyndham Police Station. Ambush of John Durack and Party by natives, 17/11/86 to 12/12/86', report 11 January 1887, \u2018Report from P.C. Ritchie of the wilful shooting of 'Young Jacky' and 'Monday' by 'Nipper'. J.J. Durack implicated. December 28, 1897, \u2018 SROWA, AN 5/1, Cons.430, File 298/1887;  <i>The West Australian</i> , 14 November 1892; 3  <a href=\"https://trove.nla.gov.au/newspaper/article/3042051/804064\">https://trove.nla.gov.au/newspaper/article/3042051/804064</a> , WAPD, \u2018East Kimberley, Wyndham Station, Death of John Durack by Natives, Undated Note Signed \u2018Gurney\u2019, Det, Received by the Police Dept,15 November 1892\u2019, SROWA, AN 5/1, Cons. 430, File 2108/1892.p.3;  Durack 1933:43; Owen 2003: 135-145; Owen 2016: 225-232."
     },
     {
-        "estimated_date": "17 Nov 1886 to 1 Nov 1887",
+        "estimated_date": {
+            "from": "17 Nov 1886",
+            "to": "1 Nov 1887"
+        },
         "colony": "WA",
         "location": "John Durack (EK)  Punitive Expedition",
         "language_group": "Jaru, Kitja",
@@ -3720,7 +4464,10 @@
         "sources": "\"WAPD, East Kimberley Wyndham Police Station. Ambush of John Durack and Party by natives, 17/11/86 to 12/12/86', report 11 January 1887, .Report from P.C. Ritchie of the wilful shooting of 'Young Jacky' and 'Monday' by 'Nipper'. J.J. Durack implicated. December 28, 1897, . SROWA, AN 5/1, Cons.430, File 298/1887; Correspondence .Bishop Gibney and the Nor. West Settlers., The West\nAustralian, 14 November 1892, WAPD, .East Kimberley, Wyndham Station, Death of John Durack by Natives, Undated Note Signed .Gurney., Det, Received by the Police Dept,15 November 1892., SROWA, AN 5/1, Cons. 430, File 2108/1892.p.3; M.P. Durack, 1933; C.Owen, 2003; C.Owen, 2016. \""
     },
     {
-        "estimated_date": "17 Nov 1886 to 21 Jan 1887",
+        "estimated_date": {
+            "from": "17 Nov 1886",
+            "to": "21 Jan 1887"
+        },
         "colony": "SA",
         "location": "Waterloo  NT",
         "language_group": "Unclear",
@@ -3735,7 +4482,10 @@
         "sources": "Lewis, 2018, pp 51-52;  <i>SA Register</i> , 9 Dec 1886, p 5  <a href=\"http://nla.gov.au/nla.news-article45846815\">http://nla.gov.au/nla.news-article45846815</a> ;  <i>North Australian</i> , 10,  December 1886, p 3  <a href=\"http://nla.gov.au/nla.news-article47996152\">http://nla.gov.au/nla.news-article47996152</a>  24 December 1896, 3  <a href=\"http://nla.gov.au/nla.news-article47996205\">http://nla.gov.au/nla.news-article47996205</a>  and 21 January 1897 p 2  <a href=\"http://nla.gov.au/nla.news-article47996309\">http://nla.gov.au/nla.news-article47996309</a> ; p 3  <a href=\"http://nla.gov.au/nla.news-article47996318\">http://nla.gov.au/nla.news-article47996318</a> ;  <i>NTTG</i> , 11 December 1886, p 3  <a href=\"http://nla.gov.au/nla.news-article3160525\">http://nla.gov.au/nla.news-article3160525</a>  and 25 Dec 1886, p2  <a href=\"http://nla.gov.au/nla.news-article3160570\">http://nla.gov.au/nla.news-article3160570</a> ; Durack, 2018 (1959),pp 292-294.\r\n"
     },
     {
-        "estimated_date": "1 Jan 1887 to 31 Dec 1887",
+        "estimated_date": {
+            "from": "1 Jan 1887",
+            "to": "31 Dec 1887"
+        },
         "colony": "QLD",
         "location": "Normanton",
         "language_group": "",
@@ -3750,7 +4500,10 @@
         "sources": "Richards 2008:34;"
     },
     {
-        "estimated_date": "1 Jan 1887 to 31 Dec 1887",
+        "estimated_date": {
+            "from": "1 Jan 1887",
+            "to": "31 Dec 1887"
+        },
         "colony": "SA",
         "location": "Owen Springs ",
         "language_group": "Arrernte",
@@ -3765,7 +4518,10 @@
         "sources": "NTRS 3414/Part 1, Sid Stanes, Reel 22, Side 2 (Trish Lonsdale Collection);  <i>Register</i>  (SA), 26 September 1928, p 6  <a href=\"http://nla.gov.au/nla.news-article56761342\">http://nla.gov.au/nla.news-article56761342</a> ; Wurmbrand police record, NT Police Historical Society  <a href=\"https://sites.google.com/site/ntpmhsociety/home/our-rich-history/people/biographies/wurmbrand-erwein\">https://sites.google.com/site/ntpmhsociety/home/our-rich-history/people/biographies/wurmbrand-erwein</a> ; Roberts T 'The Brutal Truth'  <i>The Monthly</i> , November 2009,\r\n"
     },
     {
-        "estimated_date": "1 Jan 1888 to 31 Dec 1889",
+        "estimated_date": {
+            "from": "1 Jan 1888",
+            "to": "31 Dec 1889"
+        },
         "colony": "SA",
         "location": "Cooninghera Waterhole halfway between Birdsville and Durrie on the Diamantina River",
         "language_group": "Mindiri and Wardumba ",
@@ -3780,7 +4536,10 @@
         "sources": "Hercus 1977: 56; Farwell 1950: 36-40; Hercus and Sutton 1986: 183-4 "
     },
     {
-        "estimated_date": "1 Apr 1888 to 30 Apr 1888",
+        "estimated_date": {
+            "from": "1 Apr 1888",
+            "to": "30 Apr 1888"
+        },
         "colony": "WA",
         "location": "Goose Hill - East Kimberley",
         "language_group": "Kitja, Worla",
@@ -3795,7 +4554,10 @@
         "sources": "CSO, \u2018Government Resident Wyndham - Natives (5) shot by PC. Graham & others in April 88. Report,\u2019 File Note G.B. Phillips, Commissioner of Police to Hon. Colonial Secretary, enclosing reports from Sergeant Troy and statements from PC Graham and native assistant Banjo, 2 October 1888, SROWA, AN 24, Acc.527, File 2776/1888;  <i>Sunday Times</i> , 13 September 1908: 3  <a href=\"https://trove.nla.gov.au/newspaper/article/57585524/4330457\">https://trove.nla.gov.au/newspaper/article/57585524/4330457</a> ; Owen 2016:541-2."
     },
     {
-        "estimated_date": "1 Jul 1888 to 30 Sep 1888",
+        "estimated_date": {
+            "from": "1 Jul 1888",
+            "to": "30 Sep 1888"
+        },
         "colony": "WA",
         "location": "Goldfields Road - Halls Creek",
         "language_group": "Kitja",
@@ -3810,7 +4572,10 @@
         "sources": "<i>Northern Territory Times</i> , 18 August 1888  <a href=\"http://nla.gov.au/nla.news-article3313470\">http://nla.gov.au/nla.news-article3313470</a> ;  <i>Eastern Districts Chronicle</i> , 13 October 1888:2  <a href=\"https://trove.nla.gov.au/newspaper/article/148605424/18172060\">https://trove.nla.gov.au/newspaper/article/148605424/18172060</a> ;  <i>Daily News</i>   5 September 1929: 6 <a href=\"https://trove.nla.gov.au/newspaper/article/79213432/7807983\">https://trove.nla.gov.au/newspaper/article/79213432/7807983</a> ;  Durack, 1936: 35-6; Angelo 1948; Clement 1989: 8; Clement and Bridge 1991: 46; Owen and Choo 2003:135-142;  Owen 2016: 231-233."
     },
     {
-        "estimated_date": "1 Jan 1889 to 31 Dec 1896",
+        "estimated_date": {
+            "from": "1 Jan 1889",
+            "to": "31 Dec 1896"
+        },
         "colony": "SA",
         "location": "Mirki Massacre",
         "language_group": "Yolgnu",
@@ -3825,7 +4590,10 @@
         "sources": "Read and Read 1991: 19-24; Gaunt 1934: "
     },
     {
-        "estimated_date": "1 Jan 1890 to 31 Dec 1899",
+        "estimated_date": {
+            "from": "1 Jan 1890",
+            "to": "31 Dec 1899"
+        },
         "colony": "WA",
         "location": "Newry Station, Keep River, East Kimberley/ Northern Territory",
         "language_group": "Mirrawong Gadjerong",
@@ -3840,7 +4608,10 @@
         "sources": "Shaw 1983: 35; Owen 2016: 335."
     },
     {
-        "estimated_date": "1 Jan 1890 to 31 Dec 1899",
+        "estimated_date": {
+            "from": "1 Jan 1890",
+            "to": "31 Dec 1899"
+        },
         "colony": "WA",
         "location": "Ruby Plains -East Kimberley",
         "language_group": "Kitja, Jaru",
@@ -3855,7 +4626,10 @@
         "sources": "Thomas, 1985 -   <a href=\"https://www.awm.gov.au/collection/C2148046\">https://www.awm.gov.au/collection/C2148046</a>"
     },
     {
-        "estimated_date": "1 Jan 1890 to 31 Dec 1899",
+        "estimated_date": {
+            "from": "1 Jan 1890",
+            "to": "31 Dec 1899"
+        },
         "colony": "WA",
         "location": "Kariyarri - Pilbara",
         "language_group": "Ngarluma, Kariyarri",
@@ -3870,7 +4644,10 @@
         "sources": "Wilson, 1961: 61."
     },
     {
-        "estimated_date": "1 Jan 1890 to 31 Dec 1899",
+        "estimated_date": {
+            "from": "1 Jan 1890",
+            "to": "31 Dec 1899"
+        },
         "colony": "WA",
         "location": "Warlupany - East Kimberley",
         "language_group": "Worla, Kitja",
@@ -3885,7 +4662,10 @@
         "sources": "Ross and Bray, 1989:16. Ryan 2001: 71-75."
     },
     {
-        "estimated_date": "1 Jan 1890 to 31 Dec 1899",
+        "estimated_date": {
+            "from": "1 Jan 1890",
+            "to": "31 Dec 1899"
+        },
         "colony": "SA",
         "location": "Koonchera Waterhole (Clifton Hills)",
         "language_group": "Wardumba ",
@@ -3900,7 +4680,10 @@
         "sources": "Hercus 1977: 56-62. "
     },
     {
-        "estimated_date": "1 Jan 1890 to 31 Dec 1899",
+        "estimated_date": {
+            "from": "1 Jan 1890",
+            "to": "31 Dec 1899"
+        },
         "colony": "SA",
         "location": "Nappamanna Station, near Pandie Pandie station",
         "language_group": "Wanganuru",
@@ -3915,7 +4698,10 @@
         "sources": "Hercus 1977:56; Farwell 1950:38-40."
     },
     {
-        "estimated_date": "1 Jan 1890 to 31 Dec 1890",
+        "estimated_date": {
+            "from": "1 Jan 1890",
+            "to": "31 Dec 1890"
+        },
         "colony": "SA",
         "location": "Mistake Creek, NT",
         "language_group": "Malngin and Nyinin",
@@ -3930,7 +4716,10 @@
         "sources": "Austin (1992), p 17; Shaw & McDonald, 1978 p 130."
     },
     {
-        "estimated_date": "24 Jun 1891",
+        "estimated_date": {
+            "from": "24 Jun 1891",
+            "to": "24 Jun 1891"
+        },
         "colony": "SA",
         "location": "Frew River ",
         "language_group": "Alyawarr, Wakaya, Kaytete and Warumungu",
@@ -3945,7 +4734,10 @@
         "sources": "NTRS 3413 \u2013 Londsale, Patricia \u2013 Records relating to research interviews with Centralians 1963-1986; Bell, D 1983, p65; Evening Journal, 6 July 1891, p2."
     },
     {
-        "estimated_date": "1 Jan 1892 to 31 Dec 1892",
+        "estimated_date": {
+            "from": "1 Jan 1892",
+            "to": "31 Dec 1892"
+        },
         "colony": "SA",
         "location": "Abner Range, Malakoff Creek ",
         "language_group": "Garrwa",
@@ -3960,7 +4752,10 @@
         "sources": "Roberts 2009; O'Brien and Adams 1999: 7;  <i>NTTG</i> , 24 April 1886  <a href=\"http://nla.gov.au/nla.news-article3159378\">http://nla.gov.au/nla.news-article3159378</a> ; Costello 1930: 164, 167;  <i>Northern Standard</i> , 16 October 1931,  <a href=\"http://nla.gov.au/nla.news-article48050361\">http://nla.gov.au/nla.news-article48050361</a> ; 29 May 1934  <a href=\"http://nla.gov.au/nla.news-article49494183\">http://nla.gov.au/nla.news-article49494183</a>  and 1 June 1934  <a href=\"http://nla.gov.au/nla.news-article49494267\">http://nla.gov.au/nla.news-article49494267</a> ; Bottoms 2013: 156-8."
     },
     {
-        "estimated_date": "30 Jan 1892 to 9 Dec 1896",
+        "estimated_date": {
+            "from": "30 Jan 1892",
+            "to": "9 Dec 1896"
+        },
         "colony": "SA",
         "location": "Bowgan Massacre 1 - Corella Creek",
         "language_group": "Wanbaya or Warlpiri",
@@ -3975,7 +4770,10 @@
         "sources": "Read and Read 1991, 26-28; GSNT Record 579;  <i>NTTG</i> , 4 March 1892, 3  <a href=\"http://nla.gov.au/nla.news-article3320941\">http://nla.gov.au/nla.news-article3320941</a> ;  <i>NTTG</i> , 5 Mar 1897, 3  <a href=\"http://nla.gov.au/nla.news-article4165959\">http://nla.gov.au/nla.news-article4165959</a> ; CE Gaunt 1932, 3; NTRS 2710 . Borroloola Police Letter Books . entry, June 1893; Morrison  <a href=\"http://www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a> ; Layton and Ucko 1999: 235; Read and Read 1991: 12-16; RAHC  <a href=\"https://www.rahc.com.au/sites/default/files/documents/community_profiles/Minyerri%20Community%20Profile.pdf\">https://www.rahc.com.au/sites/default/files/documents/community_profiles/Minyerri%20Community%20Profile.pdf</a> ; SA Legislative Council Select Committee Inquiry into the Aborigines Bill 1899.  \r "
     },
     {
-        "estimated_date": "1 Jun 1892 to 31 Aug 1892",
+        "estimated_date": {
+            "from": "1 Jun 1892",
+            "to": "31 Aug 1892"
+        },
         "colony": "WA",
         "location": "Leopold Ranges - West Kimberley ",
         "language_group": "Bunuba, Nyikina",
@@ -3990,7 +4788,10 @@
         "sources": "\u2018\u2018Two men murdered and third wounded by natives on the Leopold Ranges - Police Corporal Holmes, Derby, [Thomas Henry; Robert Allen; William Amitage; Robert (?) Goodridge; Thomas Yates; Robert Henry; 'Barrier Station;' Ernest Black]\u2019, SROWA, AN 24, Cons.527, File 939/1892; Owen, 2016: 296-297. "
     },
     {
-        "estimated_date": "15 Oct 1892 to 30 Nov 1892",
+        "estimated_date": {
+            "from": "15 Oct 1892",
+            "to": "30 Nov 1892"
+        },
         "colony": "SA",
         "location": "Willeroo",
         "language_group": "Wardaman",
@@ -4005,7 +4806,10 @@
         "sources": "Lewis (2004) 243-244;  <i>NTTG</i>  11 Nov 1892  <a href=\"http://nla.gov.au/nla.news-article3322818\">http://nla.gov.au/nla.news-article3322818</a> ."
     },
     {
-        "estimated_date": "1 Jan 1893 to 31 Dec 1893",
+        "estimated_date": {
+            "from": "1 Jan 1893",
+            "to": "31 Dec 1893"
+        },
         "colony": "SA",
         "location": "Malay Bay",
         "language_group": "",
@@ -4020,7 +4824,10 @@
         "sources": "Read and Read 1991: 16-18.; Habeas Corpus 2017: Appendix A: 23; NTTG, Oct 21, 1892: 2  <a href=\"https://trove.nla.gov.au/newspaper/article/3322640/826127\">https://trove.nla.gov.au/newspaper/article/3322640/826127</a> ;\r NTTG, Oct 28, 1892: 3  <a href=\"https://trove.nla.gov.au/newspaper/article/3322681\">https://trove.nla.gov.au/newspaper/article/3322681</a> ;\r NTTG, Jan 15, 1904: 3  <a href=\"https://trove.nla.gov.au/newspaper/article/4315497\">https://trove.nla.gov.au/newspaper/article/4315497</a>"
     },
     {
-        "estimated_date": "1 Jul 1893 to 31 Jul 1893",
+        "estimated_date": {
+            "from": "1 Jul 1893",
+            "to": "31 Jul 1893"
+        },
         "colony": "WA",
         "location": "Behn River near Rosewood station - East Kimberley",
         "language_group": "Kitja, Jaru",
@@ -4035,7 +4842,10 @@
         "sources": "<i>The Daily News</i> , 27 Sep 1893: 2,  <a href=\"https://trove.nla.gov.au/newspaper/article/77380675/7823132\">https://trove.nla.gov.au/newspaper/article/77380675/7823132</a> ;  <i>The Western Australian Record</i> , 5 October 1893: 7,  <a href=\"https://trove.nla.gov.au/newspaper/article/211985512/22978455\">https://trove.nla.gov.au/newspaper/article/211985512/22978455</a> ;  <i>NTTG</i> , October 20, 1893: 3  <a href=\"http://nla.gov.au/nla.news-article3325314\">http://nla.gov.au/nla.news-article3325314</a> . Northern Territory Times, October 20, 1893:3; Lewis 2012: CSO, \u2018Encounter with native offenders in East Kimberley District H. Collins killed in. Reporting, - Sub Inspector Drewry,\u2019 Journal of a trip by Sergt Brophy and party in pursuit of natives who are killing cattle on the Ord Osmand and other rivers, Correspondence from Commissioner Phillips, J, 28 September 1893, SROWA, AN 24, 527, File 90/1894; Owen and Choo, 2003; 135-145; Owen, 2016: 347-350. "
     },
     {
-        "estimated_date": "1 Oct 1893 to 24 Nov 1893",
+        "estimated_date": {
+            "from": "1 Oct 1893",
+            "to": "24 Nov 1893"
+        },
         "colony": "WA",
         "location": "Ord River-East Kimberley",
         "language_group": "Kitja, Jaru, Mirrawong",
@@ -4050,7 +4860,10 @@
         "sources": "CSO, Journal of a trip by Sergt Brophy and party in pursuit of natives who are killing cattle on the Ord, Osmand and other rivers 1 October 1893\u201324 November 1893,\u2019 SROWA, AN 24, Cons.527, File 90/1894. Owen and Choo, 2003; 135-145; Owen, 2016: 348-350.   "
     },
     {
-        "estimated_date": "19 Nov 1894",
+        "estimated_date": {
+            "from": "19 Nov 1894",
+            "to": "19 Nov 1894"
+        },
         "colony": "WA",
         "location": "Geike Gorge (2), West Kimberley ",
         "language_group": "Bunuba, Nykina, Goonyiyandi",
@@ -4065,7 +4878,10 @@
         "sources": "Aborigines Protection Board, \u2018Correspondence, Report for the Secretary of the Aboriginal Protection Board of Western Australia from Mr George Marsden on Oobagooma Cattle Station, 21 December 1896\u2019, SROWA, AN\n1, Cons. 495, Item 44; WAPD, \u2018Capture of Wild Natives in the Oscar and Barrier Ranges\u2019, 26 January 1895, SROWA, Cons.430, File 3548/1897.  See telegram from Inspector Lawrence to Commissioner of Police, 5 January 1895;  <i>The West Australian</i> , Tuesday 8 January 1895: 2  <a href=\"https://trove.nla.gov.au/newspaper/article/3071337\">https://trove.nla.gov.au/newspaper/article/3071337</a> ;   <i>Western Mail</i> , 12 January 1895: 3  <a href=\"https://trove.nla.gov.au/newspaper/article/33111918\">https://trove.nla.gov.au/newspaper/article/33111918</a> ; Clement and Bridge 1998: 47-79;   McGregor 1985: 100-122; Pederson 1995; 132-142; Owen 2016:315-330. "
     },
     {
-        "estimated_date": "13 Dec 1894 to 6 Jan 1895",
+        "estimated_date": {
+            "from": "13 Dec 1894",
+            "to": "6 Jan 1895"
+        },
         "colony": "WA",
         "location": "Geike Gorge (1-  West Kimberley   ",
         "language_group": "Bunuba",
@@ -4080,7 +4896,10 @@
         "sources": "WAPD, \u2018Capture of Wild Natives in the Oscar and Barrier Ranges\u2019, 26 January 1895, SROWA, Cons.430, File 3548/1897. See telegram from Inspector Lawrence to Commissioner of Police, 5 January 1895;   <i>West Australian</i> , 8 January 1895: 2,  <a href=\"https://trove.nla.gov.au/newspaper/article/3071337/810682\">https://trove.nla.gov.au/newspaper/article/3071337/810682</a> ;  <i>Western Mail</i> , 12 January 1895:13  <a href=\"http://nla.gov.au/nla.news-article33111918\">http://nla.gov.au/nla.news-article33111918</a> ; Owen, 2016: 315-316.   "
     },
     {
-        "estimated_date": "1 Jun 1895 to 30 Jun 1895",
+        "estimated_date": {
+            "from": "1 Jun 1895",
+            "to": "30 Jun 1895"
+        },
         "colony": "WA",
         "location": "Margaret River Killings, Leopold Ranges",
         "language_group": "Goonyiyandi, Bunuba",
@@ -4095,7 +4914,10 @@
         "sources": " \u2018The Northern Native Outrage. Police Warfare,\u2019  <i>The Inquirer and Commercial News</i> , 4 January 1895, p.15.  <a href=\"https://trove.nla.gov.au/newspaper/article/66263412/6587316\">https://trove.nla.gov.au/newspaper/article/66263412/6587316</a> ; WAPD, \u2018Wholesale killing of cattle on Margaret River,\u2019 23 July 1895, SROWA, Cons.430, File 1808/1895;  Shaw 1981: 47.  "
     },
     {
-        "estimated_date": "14 Jul 1895 to 1 Feb 1896",
+        "estimated_date": {
+            "from": "14 Jul 1895",
+            "to": "1 Feb 1896"
+        },
         "colony": "SA",
         "location": "Gordon Creek ",
         "language_group": "Bilignara and Wardaman",
@@ -4110,7 +4932,10 @@
         "sources": "Austin, 1992: 17; Read & Read, 1977: 55-62;   <i>NTTG</i>  14 Jun 1895, p 3  <a href=\"http://nla.gov.au/nla.news-article3329713\">http://nla.gov.au/nla.news-article3329713</a> ;  <i>NTTG</i>  28 Jun 1895, p3  <a href=\"http://nla.gov.au/nla.news-article3329815\">http://nla.gov.au/nla.news-article3329815</a> ;  <i>NTTG</i>  13 Mar 1896, p 3  <a href=\"http://nla.gov.au/nla.news-article3331518\">http://nla.gov.au/nla.news-article3331518</a> ; Lewis, 2018: 468-469; Sutton,2019,  <a href=\"https://www.news.com.au/news/grisly-secret-of-cattlemen-who-kept-40-pairs-of-ears-as-trophies-in-outback-horror-house/news-story/17022ba7691314b4cff5aadbf8511936\">https://www.news.com.au/news/grisly-secret-of-cattlemen-who-kept-40-pairs-of-ears-as-trophies-in-outback-horror-house/news-story/17022ba7691314b4cff5aadbf8511936</a>  "
     },
     {
-        "estimated_date": "1 Nov 1895 to 30 Nov 1895",
+        "estimated_date": {
+            "from": "1 Nov 1895",
+            "to": "30 Nov 1895"
+        },
         "colony": "SA",
         "location": "Little Gregory",
         "language_group": "Wardaman",
@@ -4125,7 +4950,10 @@
         "sources": "Lewis 2004: 247-248."
     },
     {
-        "estimated_date": "11 Nov 1895",
+        "estimated_date": {
+            "from": "11 Nov 1895",
+            "to": "11 Nov 1895"
+        },
         "colony": "WA",
         "location": "Ivanhoe Station (1)  East Kimberley ",
         "language_group": "Kitja, Mirrawong ",
@@ -4140,7 +4968,10 @@
         "sources": "\u2018Private diary of Sergeant Thomas Wheatley during police patrols from Wyndham from 6 November to 23 December 1895\u2019, [Wheatley Manuscript], 11 November 1895, Battye Library, Cons.1266A, Manuscript; Owen, 2016:363."
     },
     {
-        "estimated_date": "27 Dec 1895",
+        "estimated_date": {
+            "from": "27 Dec 1895",
+            "to": "27 Dec 1895"
+        },
         "colony": "WA",
         "location": "Ivanhoe Station (2) East Kimberley ",
         "language_group": "Mirrawong Gadgerong",
@@ -4155,7 +4986,10 @@
         "sources": "CSO, \u2018Telegram from Sub Inspector Orme to Commissioner of Police GB Phillips\u2019, Wyndham Station, 15 December 1895, SROWA, AN 24, Cons.527, File 823/1895. See also Telegram dated 27 December 1895. Const. Inglis and party \u2018dispersed several tribes on Lissadell and Ord River Stations\u2019, CSO, AN 24, Cons.527, File 823/1895. Owen, 2003: 360-364."
     },
     {
-        "estimated_date": "1 Jan 1896 to 31 Dec 1896",
+        "estimated_date": {
+            "from": "1 Jan 1896",
+            "to": "31 Dec 1896"
+        },
         "colony": "WA",
         "location": "Linnekar Gorge [Turner Station] ",
         "language_group": "Kitja, Jaru",
@@ -4170,7 +5004,10 @@
         "sources": "Ross and Bray 1989:19."
     },
     {
-        "estimated_date": "14 Aug 1896",
+        "estimated_date": {
+            "from": "14 Aug 1896",
+            "to": "14 Aug 1896"
+        },
         "colony": "WA",
         "location": "Fitzroy River Valley Killings, West Kimberley",
         "language_group": "Bunuba, Nyikina, Unggarangi",
@@ -4185,7 +5022,10 @@
         "sources": "Native Troubles on the Fitzroy,'  <i>West Australian</i> , Friday 21 August 1896: 2  <a href=\"http://nla.gov.au/nla.news-article3098102\">http://nla.gov.au/nla.news-article3098102</a> . WAPD, Telegram to Commissioner of Police from Sub Inspector Ord. 7 August 1896, SROWA, Cons.430, File 2301/96; McGregor, 1985:103-122; McGregor, 1993: 63-82; Muecke, et. al. 1985:81-100; Owen, 2016: 326-330."
     },
     {
-        "estimated_date": "22 Sep 1896 to 30 Jan 1897",
+        "estimated_date": {
+            "from": "22 Sep 1896",
+            "to": "30 Jan 1897"
+        },
         "colony": "WA",
         "location": "Rosewood and Lissadell massacres, Ord River- East Kimberley",
         "language_group": "Kitja, Worla, Jaru, Mirrawong",
@@ -4200,7 +5040,10 @@
         "sources": "WAPD, \u2018Copy of PC Rhatigan\u2019s Journal for September 1896\u2019, Argyle Camp, 15 September 1896, SROWA, Cons.430, File 3689/1896; WAPD, Copy of PC Freeman\u2019s Journal from Wyndham to Argyle Police camp, 24 October 1896, SROWA, Cons.430, File 3688/1896; WAPD, Copy of PC Rhatigan\u2019s Journal whilst travelling from Argyle camp to Wyndham from the 5 October to the 22 October 1896\u2019, 5 October 1896, SROWA, Cons.430, File 3690/1896; WAPD, PC Freeman\u2019s Journal whilst on Patrol on Ord River and Lissadell Runs\u2019, 25 December 1896, SROWA, Cons.430, File 1344/1897; WAPD, \u2018PC Freeman\u2019s Journal whilst on Patrol on Ord River and Lissadell Runs\u2019, 6 January 1897, SROWA, Cons.430, File 1344/1897; WAPD, \u2018Journal of P.C. Rhatigan patrolling the Argyle, Lissadell and Ord River Stations - January 17 to 22, 1897\u2019, Argyle Police Camp, 15 January 1897, SROWA, Cons.430, File 1345/1897."
     },
     {
-        "estimated_date": "1 May 1899 to 13 Jun 1899",
+        "estimated_date": {
+            "from": "1 May 1899",
+            "to": "13 Jun 1899"
+        },
         "colony": "WA",
         "location": "Chinese Garden - West Kimberley",
         "language_group": "Yiiji, Ngarinyin",
@@ -4215,7 +5058,10 @@
         "sources": "CSO, \u2018Clerk of Court, Wyndham \u2013 Murder of Ah Sing by Blacks \u2013 Reporting Supposed\u2019, SROWA, Cons. 527, File 2773/1898; WAPD, \u2018Police Constable Farley (305) and Others Report of the Murder of Aboriginal Assistant, Dicky, Speared by Hostile Natives at Durack River While Trying to Apprehend Murderers of Ah Sing\u2019, East Kimberley District, Wyndham Station, July 1899, SROWA, AN 5/1, Cons. 430, File 2873/1899; Owen 2016: 371; Green 1995: 94-95; \u2018News from Wyndham.  Native Depredations\u2019,  <i>The Inquirer and Commercial News</i> , 28 September 1894: 8  <a href=\"https://trove.nla.gov.au/newspaper/article/66250855/6586787\">https://trove.nla.gov.au/newspaper/article/66250855/6586787</a> . "
     },
     {
-        "estimated_date": "1 Jan 1900 to 31 Dec 1900",
+        "estimated_date": {
+            "from": "1 Jan 1900",
+            "to": "31 Dec 1900"
+        },
         "colony": "WA",
         "location": "Jail House Creek - East Kimberley",
         "language_group": "Worla, Kitja",
@@ -4230,7 +5076,10 @@
         "sources": "Ross and Bray, 1989:18."
     },
     {
-        "estimated_date": "20 Jul 1900",
+        "estimated_date": {
+            "from": "20 Jul 1900",
+            "to": "20 Jul 1900"
+        },
         "colony": "NSW",
         "location": "Breelong, near Gilgandra",
         "language_group": "",
@@ -4245,7 +5094,10 @@
         "sources": "<i>Nepean Times</i> , July 28, 1900  <a href=\"http://nla.gov.au/nla.news-article101351156\">http://nla.gov.au/nla.news-article101351156</a> ;  <i>Durane &amp; Gloucester Advertiser</i> , July 31, 1900;  <i>Muswellbrook Chronicle</i> , Oct 6, 1900  <a href=\"http://nla.gov.au/nla.news-article107010252\">http://nla.gov.au/nla.news-article107010252</a> ;  <i>SMH</i> , July 23, 1900:7  <a href=\"http://nla.gov.au/nla.news-article14325848\">http://nla.gov.au/nla.news-article14325848</a> ; 28:12  <a href=\"http://nla.gov.au/nla.news-article14327294\">http://nla.gov.au/nla.news-article14327294</a>  Nov 24, 1900  <a href=\"http://nla.gov.au/nla.news-article14377033\">http://nla.gov.au/nla.news-article14377033</a> ;  <i>Singleton Argus</i> , Jan 19, 1901  <a href=\"http://nla.gov.au/nla.news-article78908493\">http://nla.gov.au/nla.news-article78908493</a> ; <i>Evening News</i>  (Sydney  1869-1931), July 27, 1900:3  <a href=\"http://nla.gov.au/nla.news-article112586798\">http://nla.gov.au/nla.news-article112586798</a> ; August 7, 1900:5  <a href=\"http://nla.gov.au/nla.news-article112584490\">http://nla.gov.au/nla.news-article112584490</a> ;  August 22, 1900:4  <a href=\"http://nla.gov.au/nla.news-article112584861\">http://nla.gov.au/nla.news-article112584861</a> ;  August 31, 1900:8  <a href=\"http://nla.gov.au/nla.news-article112590518\">http://nla.gov.au/nla.news-article112590518</a> ; September 1, 1900:6  <a href=\"http://nla.gov.au/nla.news-article112587452\">http://nla.gov.au/nla.news-article112587452</a> . "
     },
     {
-        "estimated_date": "1 Jan 1901 to 31 Dec 1902",
+        "estimated_date": {
+            "from": "1 Jan 1901",
+            "to": "31 Dec 1902"
+        },
         "colony": "SA",
         "location": "Hodgson Downs Station, Bailey Creek, Minyerri",
         "language_group": "Maijarayi and Alawa",
@@ -4260,7 +5112,10 @@
         "sources": "Morrison  <a href=\"//www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a> ; Layton and Ucko 1999: 235; Read and Read 1991: 12-16; RAHC  <a href=\"https://www.rahc.com.au/sites/default/files/documents/community_profiles/Minyerri%20Community%20Profile.pdf\">https://www.rahc.com.au/sites/default/files/documents/community_profiles/Minyerri%20Community%20Profile.pdf</a> ; Merlan 1978 p87."
     },
     {
-        "estimated_date": "1 Jan 1902 to 31 Dec 1902",
+        "estimated_date": {
+            "from": "1 Jan 1902",
+            "to": "31 Dec 1902"
+        },
         "colony": "QLD",
         "location": "Ducie River, Cape York ",
         "language_group": "",
@@ -4275,7 +5130,10 @@
         "sources": "Richards 2008:35;"
     },
     {
-        "estimated_date": "1 Jan 1903 to 31 Dec 1904",
+        "estimated_date": {
+            "from": "1 Jan 1903",
+            "to": "31 Dec 1904"
+        },
         "colony": "SA",
         "location": "Winiki Pocket",
         "language_group": "",
@@ -4290,7 +5148,10 @@
         "sources": "Morrison  <a href=\"//www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a> ; Layton and Ucko 1999: 235; Read and Read 1991: 12-16; RAHC  <a href=\"https://www.rahc.com.au/sites/default/files/documents/community_profiles/Minyerri%20Community%20Profile.pdf\">https://www.rahc.com.au/sites/default/files/documents/community_profiles/Minyerri%20Community%20Profile.pdf</a>"
     },
     {
-        "estimated_date": "1 Jan 1908 to 31 Dec 1908",
+        "estimated_date": {
+            "from": "1 Jan 1908",
+            "to": "31 Dec 1908"
+        },
         "colony": "WA",
         "location": "Texas Downs - East Kimberley",
         "language_group": "Worla, Kitja, Jaru",
@@ -4305,7 +5166,10 @@
         "sources": "Clement 1989: 21-22; Shaw, 1986: 98-101; Shaw, 1998: passim; Ross and Bray, 1989:.20."
     },
     {
-        "estimated_date": "1 Jan 1911 to 31 Dec 1911",
+        "estimated_date": {
+            "from": "1 Jan 1911",
+            "to": "31 Dec 1911"
+        },
         "colony": "NT",
         "location": "Gan Gan Massacre #1",
         "language_group": "Yolgnu \u2013 Dhalwangu and Gumatj people",
@@ -4320,7 +5184,10 @@
         "sources": "Yunupingu, G July 2016; Yunupingu, B 1981; NAA, Uncommon Lives, Dhakiyarr Wirrpanda; Warren Snowdon MHR, 2016; Gumana, B biography ( <a href=\"https://www.aboriginal-bark-paintings.com/birrikidji-gumana/\">https://www.aboriginal-bark-paintings.com/birrikidji-gumana/</a> ); Rothwell, N 2007, Yunupingu G 2017, p54-55.   "
     },
     {
-        "estimated_date": "6 Jan 1912 to 11 Apr 1913",
+        "estimated_date": {
+            "from": "6 Jan 1912",
+            "to": "11 Apr 1913"
+        },
         "colony": "WA",
         "location": "Canning Stock Route - Well No.4",
         "language_group": "Martu",
@@ -4335,7 +5202,10 @@
         "sources": "<i>The Daily News</i> , 21 May 1912:8  <a href=\"https://trove.nla.gov.au/newspaper/article/79898128/7816557\">https://trove.nla.gov.au/newspaper/article/79898128/7816557</a> ; Clement & Bridge 1991; 130-151."
     },
     {
-        "estimated_date": "1 May 1915 to 30 Jun 1915",
+        "estimated_date": {
+            "from": "1 May 1915",
+            "to": "30 Jun 1915"
+        },
         "colony": "WA",
         "location": "Mistake Creek - East Kimberley",
         "language_group": "Kitja, Worla ",
@@ -4350,7 +5220,10 @@
         "sources": "WAPD, Aboriginal Native Tracker 'Nipper'. From C.of P. SROWA, Cons.430, Item\u00a01854/1915. Clement 1989: 17-18;  Ross and Bray 1989: 73-5;  <i>Western Mail</i> , 2 April 1915:18  <a href=\"http://nla.gov.au/nla.news-article44758490\">http://nla.gov.au/nla.news-article44758490</a> ;  <i>The Advertiser</i> , 2 April 1915: 8  <a href=\"https://trove.nla.gov.au/newspaper/article/5455967/970938\">https://trove.nla.gov.au/newspaper/article/5455967/970938</a>  WAPD, \u2018Aboriginal Native \u00a0Tracker \u00a0'Nipper'. From C. of P.\u2019 SROWA, \u00a0AN 5/2, Ace 430, File 1854/1915; Smith, Mistake Creek Massacre Site, Flinders University,  <a href=\"http://www.flinders.edu.au/ehl/archaeology/research-profile/current-themes-and-projects/environment-and-society/kimberley-frontier-archaeology-project.cfm\">http://www.flinders.edu.au/ehl/archaeology/research-profile/current-themes-and-projects/environment-and-society/kimberley-frontier-archaeology-project.cfm</a> ; Clement 2003: 199-214, Owen, 2016: 438."
     },
     {
-        "estimated_date": "1 Sep 1916 to 30 Sep 1916",
+        "estimated_date": {
+            "from": "1 Sep 1916",
+            "to": "30 Sep 1916"
+        },
         "colony": "WA",
         "location": "Mowla Bluff - West Kimberley",
         "language_group": "Nyikina",
@@ -4365,7 +5238,10 @@
         "sources": "'Alleged shooting of Natives at Gee Gully...'Cons. 430, File 1919/1812; Marshall, 1988:226; 'Whispering in our Hearts': The Mowla Bluff Massacre, Ronin Films, Mitch Torres, 2002. [Film] Watson, 2012; 51-60; Owen, 2016; 439-440. "
     },
     {
-        "estimated_date": "1 Jan 1917 to 31 Dec 1917",
+        "estimated_date": {
+            "from": "1 Jan 1917",
+            "to": "31 Dec 1917"
+        },
         "colony": "NT",
         "location": "Tennant Creek",
         "language_group": "Warlpiri/Warumungu",
@@ -4380,7 +5256,10 @@
         "sources": "Read and Read 1991: 5-7; Headon 1986, 35-36."
     },
     {
-        "estimated_date": "1 Jan 1918 to 31 Dec 1918",
+        "estimated_date": {
+            "from": "1 Jan 1918",
+            "to": "31 Dec 1918"
+        },
         "colony": "QLD",
         "location": "Bentinck Island, Gulf of Carpentaria",
         "language_group": "Kaiadilt",
@@ -4395,7 +5274,10 @@
         "sources": "Bottoms 2013:169; Kelly and Evans, 1985:44-5."
     },
     {
-        "estimated_date": "23 Mar 1918 to 2 Apr 1918",
+        "estimated_date": {
+            "from": "23 Mar 1918",
+            "to": "2 Apr 1918"
+        },
         "colony": "NT",
         "location": "Auvergne Massacre",
         "language_group": "Gurindji",
@@ -4410,7 +5292,10 @@
         "sources": "Timber Creek Police Station Copy Book, 10 April 1918; Timber Creek Police Station  Register of Reported Deaths, 1895-1944;  <i>NTTG</i>  20 April 1918: 24  <a href=\"http://nla.gov.au/nla.news-article3288859\">http://nla.gov.au/nla.news-article3288859</a> ; 11 May 1918: 15  <a href=\"http://nla.gov.au/nla.news-article3289247\">http://nla.gov.au/nla.news-article3289247</a> ;  <i>Riverine Herald</i> , 24 June 1918: 3  <a href=\"http://nla.gov.au/nla.news-article90178007\">http://nla.gov.au/nla.news-article90178007</a> ; Morrison  <a href=\"//www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a>"
     },
     {
-        "estimated_date": "1 Jan 1920 to 31 Dec 1922",
+        "estimated_date": {
+            "from": "1 Jan 1920",
+            "to": "31 Dec 1922"
+        },
         "colony": "NT",
         "location": "Wave Hill Station",
         "language_group": "Warlpiri & Gurindji",
@@ -4425,7 +5310,10 @@
         "sources": "Read and Japaljarri, 1978, 147. Lewis, 2018, 527, 538."
     },
     {
-        "estimated_date": "1 Jan 1921 to 30 Nov 1921",
+        "estimated_date": {
+            "from": "1 Jan 1921",
+            "to": "30 Nov 1921"
+        },
         "colony": "WA",
         "location": "Bedford Downs (1)  - East Kimberley",
         "language_group": "Kitja, Worla ",
@@ -4440,7 +5328,10 @@
         "sources": "Green, 1995: 75. Owen, 2016: 439"
     },
     {
-        "estimated_date": "1 Oct 1922 to 31 Oct 1922",
+        "estimated_date": {
+            "from": "1 Oct 1922",
+            "to": "31 Oct 1922"
+        },
         "colony": "WA",
         "location": "Sturt Creek - East Kimberley",
         "language_group": "Tjurabalan, Walmajari, Jaru",
@@ -4455,7 +5346,10 @@
         "sources": "Smith, 2000, 62-74,   <a href=\"http://theconversation.com/oral-testimony-of-an-aboriginal-massacre-now-supported-by-scientific-evidence-85526\">http://theconversation.com/oral-testimony-of-an-aboriginal-massacre-now-supported-by-scientific-evidence-85526</a> ; .Shaw, 1981; 47.  "
     },
     {
-        "estimated_date": "1 Jan 1924 to 31 Dec 1924",
+        "estimated_date": {
+            "from": "1 Jan 1924",
+            "to": "31 Dec 1924"
+        },
         "colony": "WA",
         "location": "Bedford Downs (2) - East Kimberley",
         "language_group": "Kitja, Worla ",
@@ -4470,7 +5364,10 @@
         "sources": "Ross and Bray, 1989: 56-59; Clement,1989: 4;  Ryan  2001: 63, 65\u20138; Kimberley Language Resource Centre, 1996: 101\u20139; Owen 2016: 439-440."
     },
     {
-        "estimated_date": "20 Jun 1926 to 31 Jul 1926",
+        "estimated_date": {
+            "from": "20 Jun 1926",
+            "to": "31 Jul 1926"
+        },
         "colony": "WA",
         "location": "Forrest River [Oombulgurri] -  East Kimberley ",
         "language_group": "Yiiji",
@@ -4485,7 +5382,10 @@
         "sources": "Wood 1927;   <i>Daily News</i> , 8 July 1926;  <i>Sunday Times</i> , 13 March 1927:18  <a href=\"https://trove.nla.gov.au/newspaper/article/58325091/4346136\">https://trove.nla.gov.au/newspaper/article/58325091/4346136</a> ;  <i>The Advertiser</i> , 16 July 1928:13  <a href=\"https://trove.nla.gov.au/newspaper/article/49398848/2483931\">https://trove.nla.gov.au/newspaper/article/49398848/2483931</a> ;  <i>Sydney Morning Herald</i> , 8 March 1927: 11  <a href=\"https://trove.nla.gov.au/newspaper/article/16359964/1209517\">https://trove.nla.gov.au/newspaper/article/16359964/1209517</a> ;   <i>Brisbane Courier</i> , 9 March 1927:15  <a href=\"https://trove.nla.gov.au/newspaper/article/21121887/1643178\">https://trove.nla.gov.au/newspaper/article/21121887/1643178</a> ; Shaw 1981:157-163;  Green 1995; Auty, 2004: 122-155.Owen, 2016:439-444."
     },
     {
-        "estimated_date": "1 Aug 1928 to 31 Oct 1928",
+        "estimated_date": {
+            "from": "1 Aug 1928",
+            "to": "31 Oct 1928"
+        },
         "colony": "NT",
         "location": "Coniston and surrounds 1",
         "language_group": "Warlpiri, Anmatyere, Kaytetye",
@@ -4500,7 +5400,10 @@
         "sources": "Woodward 1978;  Read and Read 1991: 33-7; Bell 1993: 67-68; Toohey 1978; Edmond 2013: 104; Morrison  <a href=\"http://www.australianfrontierconflicts.com.au\">www.australianfrontierconflicts.com.au</a> ;  <i>Alice Springs News Online</i>  August 15 2018  <a href=\"https://www.alicespringsnews.com.au/2018/08/15/the-coniston-massacre-remembered/\">https://www.alicespringsnews.com.au/2018/08/15/the-coniston-massacre-remembered</a> ;  <i>NT News</i> , 25 Aug 2018: 24-25 <a href=\"https://www.abc.net.au/news/2018-08-24/nt-police-apologise-for-state-sanctioned-coniston-massacre/10162850\">https://www.abc.net.au/news/2018-08-24/nt-police-apologise-for-state-sanctioned-coniston-massacre/10162850</a> ; Wilson and O'Brien 2003. "
     },
     {
-        "estimated_date": "1 Aug 1928 to 31 Oct 1928",
+        "estimated_date": {
+            "from": "1 Aug 1928",
+            "to": "31 Oct 1928"
+        },
         "colony": "NT",
         "location": "Coniston and surrounds 2",
         "language_group": "Warlpiri, Anmatyere, Kaytetye",
