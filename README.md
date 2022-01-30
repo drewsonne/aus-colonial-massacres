@@ -12,6 +12,8 @@ A machine-readable version of the data can be found in this repository at [aus-c
 structure of the data as extracted from the page above. A second file [aus-colonial-massacres-cleaned.json](aus-colonial-massacres-cleaned.json) has taken liberties with the
 structure and formatting of the data to provide a more machine readable version.
 
+Below is a graph showing the frequency of massacres and the participants
+
 ![Colonial Australia Massacres](aus-colonial-massacres.png)
 
 ## Citation
