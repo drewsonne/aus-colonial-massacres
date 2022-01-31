@@ -6,6 +6,10 @@ Machine readable version and basic reporting Colonial Australian Massacres
 This data was extracted from the timeline at [Colonial Frontier Massacres in Australia, 1788-1930](https://c21ch.newcastle.edu.au/colonialmassacres/)
 in a project funded by [Australian Research Council](https://www.arc.gov.au/).
 
+## Generation
+
+All the code for generation can be found in [the jupyter notebook](analyses.ipynb).
+
 ## Usage
 
 A machine-readable version of the data can be found in this repository at [aus-colonial-massacres.json](aus-colonial-massacres.json) this version preserves the original 
