@@ -16,6 +16,8 @@ Below is a graph showing the frequency of massacres and the participants
 
 ![Colonial Australia Massacres](aus-colonial-massacres.png)
 
+![Colonial Australia Massacres](aus-colonial-massacres-by-group.png)
+
 ## Citation
 
 Ryan, Lyndall; Richards, Jonathan; Pascoe, William; Debenham, Jennifer; Stephanie Gilbert; Anders, Robert J; Brown, Mark; Smith, Robyn; Price, Daniel; Newley, Jack Colonial Frontier Massacres in Eastern Australia 1788 to 1930, v2.1 Newcastle: University of Newcastle, 2018, http://hdl.handle.net/1959.13/1340762 (accessed 30/10/2018). Funded by ARC: DP 140100399.
